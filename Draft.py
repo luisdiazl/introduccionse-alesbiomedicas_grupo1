@@ -1,1 +1,1 @@
-imprimir("¡HolaMundo!")
+print ( "Hola mundo!")
