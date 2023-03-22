@@ -8,7 +8,7 @@ Integrantes:  <br />
 - Diego Fernando Segura Contreras <br />
 - Alexys Caytano Melendez <br />
 - Nicolle Muñoz Huamán <br />
-- Yereli García Palomino <br />
+- Yereli Karol García Palomino <br />
 
 ## Presentacion de los integrantes:
 
