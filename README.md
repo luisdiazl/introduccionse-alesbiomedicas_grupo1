@@ -19,6 +19,8 @@ En este curso tenemos como objetivo el realizar un proyecto de investigación en
 ## Contenido del curso a desarrollar:
 
 ## Materiales a usar:
-
+- Ultracortex EEG headset
+- Arduino (?
+- Fluke ProSim 4
 
 
