@@ -1,3 +1,5 @@
+![header](imgs/header.jpg)
+
 # Introducción a Señales Biomédicas Grupo 1
 
 Repositorio del curso Introducción a Señales Biomédicas
