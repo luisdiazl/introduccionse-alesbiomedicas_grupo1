@@ -2,12 +2,12 @@
 
 Repositorio del curso Introducción a Señales Biomédicas
 
-Integrantes: 
-Luis Daniel Jesús Diaz Leguizamon
-Giancarlo Arian Guarnizo Bellido
-Diego Fernando Segura Contreras
-Alexys Caytano Melendez
-Nicolle Muñoz Huamán
-Yereli García Palomino
+Integrantes:  <br />
+- Luis Daniel Jesús Diaz Leguizamon <br />
+- Giancarlo Arian Guarnizo Bellido <br />
+- Diego Fernando Segura Contreras <br />
+- Alexys Caytano Melendez <br />
+- Nicolle Muñoz Huamán <br />
+- Yereli García Palomino <br />
 
-
+Presentacion de los integrantes
