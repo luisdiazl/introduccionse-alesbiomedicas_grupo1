@@ -10,7 +10,7 @@ Integrantes:  <br />
 - Nicolle Muñoz Huamán <br />
 - Yereli García Palomino <br />
 
-Presentacion de los integrantes
+Presentacion de los integrantes:
 
 Objetivo del curso
 
@@ -19,4 +19,3 @@ En este curso tenemos como objetivo el realizar un proyecto de investigación en
 ## Contenido del curso a desarrollar
 
 ## Materiales a usar
-Muchos
