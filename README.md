@@ -1,5 +1,3 @@
-![header](imgs/header.jpg)
-
 # Introducción a Señales Biomédicas Grupo 1
 
 Repositorio del curso Introducción a Señales Biomédicas
@@ -14,7 +12,6 @@ Integrantes:  <br />
 
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
-<br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. 
 
 ## Objetivo del curso:
@@ -23,7 +20,16 @@ En este curso tenemos como objetivo el realizar un proyecto de investigación en
 
 ## Contenido del curso a desarrollar:
 
+UNIDAD 1: Introducción, adquisición y principios fisiológicos de las señales biomédicas
+UNIDAD 2: Análisis de ECG, EMG y EEG 
+
+UNIDAD 3: Introducción al tratamiento digital de señales
+
+UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas
+
 ## Materiales a usar:
+
+Ultracortex EEG Headset
 
 
 
