@@ -12,6 +12,7 @@ Integrantes:  <br />
 
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
+<br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. 
 
 ## Objetivo del curso:
