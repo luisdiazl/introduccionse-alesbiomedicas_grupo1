@@ -13,3 +13,5 @@ Integrantes:  <br />
 Presentacion de los integrantes
 
 ## Contenido del curso a desarrollar
+
+## Materiales a usar
