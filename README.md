@@ -24,7 +24,8 @@ Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las c
 ![Diego](imges/Diego2.jpg)
 
 Alexys Remiro Caytano Melendez: <br />
-Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el Procesamiento de Señales e Imágenes Médicas, así como en el área de Ingeniería Clínica. Así mismo, espera poder aprender lo máximo del curso para poder aplicar los conocimientos adquiridos en su futuro laboral.
+Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el Procesamiento de Señales e Imágenes Médicas, así como en el área de Ingeniería Clínica. Así mismo, espera poder aprender lo máximo del curso para poder aplicar los conocimientos adquiridos en su futuro laboral.<br />
+![Alexys](imges/myphoto.jpg)
 
 Yereli Karol García Palomino: <br />
 Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  <br />
