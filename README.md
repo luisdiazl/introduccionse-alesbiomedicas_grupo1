@@ -13,23 +13,23 @@ Integrantes:  <br />
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. <br />
-![Luis](imges/fotoluis.jpeg)
+![Luis](imges/fotoluis.jpeg)<imges src="fotoluis.jpeg" width="100" height="100" />
 
 Giancarlo Arian Guarnizo Bellido: <br />
 Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado en la especialidad de Ingeniería Clínica y Señales e Imágenes Biomédicas. Con el curso de Introducción a señales biomédicas busca tener una base sólida en el entendimiento y procesamiento de las señales fisiológicas.<br />
-![Giancarlo](imges/mifoto1.PNG)
+![Giancarlo](imges/mifoto1.PNG)<imges src="mifoto1.PNG" width="100" height="100" />
 
 Diego Fernando Segura Contreraras: <br />
 Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.<br />
-![Diego](imges/Diego2.jpg)
+![Diego](imges/Diego2.jpg)<imges src="Diego2.jpg" width="100" height="100" />
 
 Alexys Remiro Caytano Melendez: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el Procesamiento de Señales e Imágenes Médicas, así como en el área de Ingeniería Clínica. Así mismo, espera poder aprender lo máximo del curso para poder aplicar los conocimientos adquiridos en su futuro laboral.<br />
-![Alexys](imges/myphoto.jpg)
+![Alexys](imges/myphoto.jpg)<imges src="myphoto.jpg" width="100" height="100" />
 
 Yereli Karol García Palomino: <br />
 Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  <br />
-![Karol](imges/fotok.jpeg)
+![Karol](imges/fotok.jpeg)<imges src="fotok.jpeg" width="100" height="100" />
 
 Nicolle Stephany Muñoz Huamán: <br />
 Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinada a realizar proyectos sobre la carrera, y abarcar las áreas de Ingeniería Clínica y Señales e Imágenes Biomédicas. <br />
