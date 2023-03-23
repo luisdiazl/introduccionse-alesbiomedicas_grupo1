@@ -16,6 +16,7 @@ Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, inter
 
 Giancarlo Arian Guarnizo Bellido: <br />
 Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado en la especialidad de Ingeniería Clínica y Señales e Imágenes Biomédicas. Con el curso de Introducción a señales biomédicas busca tener una base sólida en el entendimiento y procesamiento de las señales fisiológicas.
+![Giancarlo](imges/mifoto1.PNG)
 
 Diego Fernando Segura Contreraras: <br />
 Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.
