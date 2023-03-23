@@ -12,17 +12,14 @@ Integrantes:  <br />
 
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
-Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. 
+Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. 
 
 
 Diego Fernando Segura Contreraras: <br />
-Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interes en las concentraciones de Ingeniería Clínica y Ingenieria de Tejidos. Mi objetivo en este curso es poder conocer a mayor detalle sobre el proceso de captación y procesamiento de señales biomédicas.
+Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.
 
 Yereli Karol García Palomino: <br />
-Estudiante
-
-Alexys Ramiro Caytano Melendez: <br />
-Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH interesado en el Procesamiento de Señales e Imágenes Médicas, así como la Ingeniería Clínica. Espera poder aprender lo más que se pueda del presente curso para poder aplicarlo en su futuro laboral.
+Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  
 
 ## Objetivo del curso:
 
