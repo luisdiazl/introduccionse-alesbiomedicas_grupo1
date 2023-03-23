@@ -15,10 +15,12 @@ Luis Daniel Jesús Diaz Leguizamon: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. 
 
 
-Diego Fernando Segura Contreraras
+Diego Fernando Segura Contreraras: <br />
 Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interes en las concentraciones de Ingeniería Clínica y Ingenieria de Tejidos.
 ## Objetivo del curso:
 
+Yereli Karol García Palomino: <br />
+Estudiante
 En este curso tenemos como objetivo el realizar un proyecto de investigación en el que se adquirirá y procesará las señales biomedicas recibidas de un electroencefalograma (EEG).
 
 ## Contenido del curso a desarrollar:
