@@ -3,7 +3,7 @@
 Repositorio del curso Introducción a Señales Biomédicas
 
 Integrantes:  <br />
-- Luis Daniel Jesús Diaz Leguizamon (colaborador) - <br />
+- Luis Daniel Jesús Diaz Leguizamon (colaborador) - luis.diaz@upch.pe <br />
 - Giancarlo Arian Guarnizo Bellido (colaborador) - a20191812@pucp.edu.pe <br />
 - Diego Fernando Segura Contreras (colaborador) - diego.segura.c@upch.pe <br />
 - Alexys Caytano Melendez (colaborador) - alexys.caytano@upch.pe <br />
@@ -33,7 +33,8 @@ Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder d
 
 Nicolle Stephany Muñoz Huamán: <br />
 Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinada a realizar proyectos sobre la carrera, y abarcar las áreas de Ingeniería Clínica y Señales e Imágenes Biomédicas. <br />
-![Nicolle](imges/mifoto.jpg)
+![Nicolle](imges/mifoto.jpg width="100" height="100" )
+<img src="mifoto.jpg" width="100" height="100" />
 
 ## Objetivo del curso:
 
