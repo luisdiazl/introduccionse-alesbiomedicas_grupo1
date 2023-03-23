@@ -16,7 +16,7 @@ Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH intere
 
 
 Diego Fernando Segura Contreraras: <br />
-Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interes en las concentraciones de Ingeniería Clínica y Ingenieria de Tejidos.
+Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interes en las concentraciones de Ingeniería Clínica y Ingenieria de Tejidos. Mi objetivo en este curso es poder conocer a mayor detalle sobre el proceso de captación y procesamiento de señales biomédicas.
 
 Yereli Karol García Palomino: <br />
 Estudiante
