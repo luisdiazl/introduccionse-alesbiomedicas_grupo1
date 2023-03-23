@@ -32,7 +32,7 @@ Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder d
 
 Nicolle Stephany Muñoz Huamán: <br />
 Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinada a realizar proyectos sobre la carrera, y abarcar las áreas de Ingeniería Clínica y Señales e Imágenes Biomédicas. <br />
-![Nicolle]<img src="mifoto.jpg" width="100" height="100" />
+![Nicolle](imges/mifoto.jpg) <img src="mifoto.jpg" width="100" height="100" />
 
 ## Objetivo del curso:
 
