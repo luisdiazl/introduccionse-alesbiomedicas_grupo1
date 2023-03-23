@@ -13,6 +13,7 @@ Integrantes:  <br />
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. 
+![Luis](imges/WhatsApp Image 2023-03-22 at 9.33.53 PM.jpeg)
 
 Giancarlo Arian Guarnizo Bellido: <br />
 Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado en la especialidad de Ingeniería Clínica y Señales e Imágenes Biomédicas. Con el curso de Introducción a señales biomédicas busca tener una base sólida en el entendimiento y procesamiento de las señales fisiológicas.
