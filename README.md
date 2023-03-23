@@ -46,6 +46,8 @@ UNIDAD 2: Análisis de ECG, EMG y EEG <br />
 UNIDAD 3: Introducción al tratamiento digital de señales <br />
 UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas <br />
 
+![Curso](imges/Contenido_del_curso.png)
+
 ## Materiales a usar:
 
 Ultracortex EEG Headset: Auriculares imprimibles en 3D, con código abierto, que han sido diseñados para ser compatibles con cualquier placa OpenBCI. Además, es capaz de registrar la actividad cerebral (EEG). <br />
