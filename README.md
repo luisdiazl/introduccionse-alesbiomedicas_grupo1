@@ -4,11 +4,11 @@ Repositorio del curso Introducción a Señales Biomédicas
 
 Integrantes:  <br />
 - Luis Daniel Jesús Diaz Leguizamon (colaborador) - <br />
-- Giancarlo Arian Guarnizo Bellido (colaborador) - <br />
-- Diego Fernando Segura Contreras (colaborador) - <br />
-- Alexys Caytano Melendez (colaborador) - <br />
-- Nicolle Muñoz Huamán (colaborador) - <br />
-- Yereli Karol García Palomino (colaborador) - [a20191706@pucp.edu.pe]<br />
+- Giancarlo Arian Guarnizo Bellido (colaborador) - a20191812@pucp.edu.pe <br />
+- Diego Fernando Segura Contreras (colaborador) - diego.segura.c@upch.pe <br />
+- Alexys Caytano Melendez (colaborador) - alexys.caytano@upch.pe <br />
+- Nicolle Muñoz Huamán (colaborador) - nicolle.munoz@upch.pe <br />
+- Yereli Karol García Palomino (colaborador) - a20191706@pucp.edu.pe <br />
 
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
