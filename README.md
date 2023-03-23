@@ -28,12 +28,10 @@ En este curso tenemos como objetivo el realizar un proyecto de investigación en
 
 ## Contenido del curso a desarrollar:
 
-UNIDAD 1: Introducción, adquisición y principios fisiológicos de las señales biomédicas
-UNIDAD 2: Análisis de ECG, EMG y EEG 
-
-UNIDAD 3: Introducción al tratamiento digital de señales
-
-UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas
+UNIDAD 1: Introducción, adquisición y principios fisiológicos de las señales biomédicas <br />
+UNIDAD 2: Análisis de ECG, EMG y EEG <br />
+UNIDAD 3: Introducción al tratamiento digital de señales <br />
+UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas <br />
 
 ## Materiales a usar:
 
