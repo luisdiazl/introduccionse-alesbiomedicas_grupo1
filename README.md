@@ -23,6 +23,9 @@ Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las c
 Yereli Karol García Palomino: <br />
 Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  
 
+Nicolle Stephany Muñoz Huamán: <br />
+Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinada a realizar proyectos sobre la carrera, y abarcar las áreas de Ingeniería Clínica y Señales e Imágenes Biomédicas. 
+
 ## Objetivo del curso:
 
 
