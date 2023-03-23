@@ -40,7 +40,8 @@ UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial e
 
 ## Materiales a usar:
 
-Ultracortex EEG Headset
+Ultracortex EEG Headset<br />
+
 ![Ultracortex](imges/Ultracortex.PNG)
 
 
