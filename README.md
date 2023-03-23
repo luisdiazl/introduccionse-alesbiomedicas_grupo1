@@ -13,7 +13,7 @@ Integrantes:  <br />
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. <br />
-![Luis](fotoluis.jpeg)
+![Luis](imges/fotoluis.jpeg)
 
 Giancarlo Arian Guarnizo Bellido: <br />
 Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado en la especialidad de Ingeniería Clínica y Señales e Imágenes Biomédicas. Con el curso de Introducción a señales biomédicas busca tener una base sólida en el entendimiento y procesamiento de las señales fisiológicas.<br />
@@ -24,7 +24,8 @@ Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las c
 ![Diego](imges/Diego2.jpg)
 
 Yereli Karol García Palomino: <br />
-Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  
+Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  <br />
+![Karol](imges/fotok.jpeg)
 
 Nicolle Stephany Muñoz Huamán: <br />
 Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinada a realizar proyectos sobre la carrera, y abarcar las áreas de Ingeniería Clínica y Señales e Imágenes Biomédicas. <br />
