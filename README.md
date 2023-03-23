@@ -19,7 +19,8 @@ Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado
 ![Giancarlo](imges/mifoto1.PNG)
 
 Diego Fernando Segura Contreraras: <br />
-Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.
+Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.<br />
+![Diego](imges/Diego2.jpg)
 
 Yereli Karol García Palomino: <br />
 Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  
