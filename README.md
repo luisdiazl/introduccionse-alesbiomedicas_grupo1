@@ -21,7 +21,7 @@ Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado
 
 Diego Fernando Segura Contreraras: <br />
 Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.<br />
-![Diego](imges/Diego2.jpg)
+![Diego](imges/Diego.jpg)
 
 Alexys Remiro Caytano Melendez: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el Procesamiento de Señales e Imágenes Médicas, así como en el área de Ingeniería Clínica. Así mismo, espera poder aprender lo máximo del curso para poder aplicar los conocimientos adquiridos en su futuro laboral.<br />
