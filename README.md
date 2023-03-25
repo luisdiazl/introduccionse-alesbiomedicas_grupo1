@@ -51,10 +51,10 @@ UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial e
 |            Material                                                |                              Imagen rereferncial          |
 |--------------------------------------------------------------------|-----------------------------------------------------------| 
 | Ultracortex EEG Headset: Auriculares imprimibles en 3D, con código |                                                           | 
-| abierto, que han sido diseñados para ser compatibles con cualquier |      ![Ultracortex](imges/Ultracortex1.PNG)                | 
+| abierto, que han sido diseñados para ser compatibles con cualquier |      ![Ultracortex](imges/Ultracortex1.png)               | 
 | placa OpenBCI. Además, es capaz de registrar la actividad cerebral |                                                           | 
 | (EEG). <br />                                                      |                                                           | 
-|                                                                    |                                                           | 
+|--------------------------------------------------------------------|-----------------------------------------------------------| 
 
 
 
