@@ -1,6 +1,6 @@
-# Introducción a Señales Biomédicas Grupo 1
+# Grupo 1 - Introducción a Señales Biomédicas 
 
-Repositorio del curso Introducción a Señales Biomédicas
+Repositorio del curso Introducción a Señales Biomédicas del grupo 1 del ciclo 2023-1 de la Universidad Cayetano Heredia
 ## Tabla de contenidos:
 ---
 - [Integrantes](#Integrantes)
