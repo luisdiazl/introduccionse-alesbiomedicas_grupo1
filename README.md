@@ -38,7 +38,7 @@ Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinad
 ## Objetivo del curso:
 En este curso tenemos como objetivo el realizar un proyecto de investigación en el que se adquirirá y procesará las señales biomedicas recibidas de un electroencefalograma (EEG).
 
-## Contenido del curso a desarrollar:
+## Tabla de contenidos:
 
 UNIDAD 1: Introducción, adquisición y principios fisiológicos de las señales biomédicas <br />
 UNIDAD 2: Análisis de ECG, EMG y EEG <br />
