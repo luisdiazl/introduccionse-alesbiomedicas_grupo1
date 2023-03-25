@@ -59,3 +59,6 @@ UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial e
 
 
 ## Docentes del curso:
+- Umbert Lewis De la Cruz Rodriguez
+- Moisés Stevend Meza Rodriguez
+- Julissa Elvira Venancio Huerta
