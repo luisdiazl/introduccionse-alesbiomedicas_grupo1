@@ -3,11 +3,11 @@
 Repositorio del curso Introducción a Señales Biomédicas
 ## Tabla de contenidos:
 ---
-- [Integrantes](#Integrantes:)
-- [Presentación de los integrantes](#Presentacion-de-los-integrantes:)
-- [Objetivo del curso](#Objetivo-del-curso:)
-- [Contenido del curso](#Contenido-del-curso:)
-- [Materiales a usar](#Materiales-a-usar:)
+- [Integrantes](#Integrantes)
+- [Presentación de los integrantes](#Presentacion-de-los-integrantes)
+- [Objetivo del curso](#Objetivo-del-curso)
+- [Contenido del curso](#Contenido-del-curso)
+- [Materiales a usar](#Materiales-a-usar)
 - [Docentes del curso](#Docentes-del-curso)
 ## Integrantes:  <br />
 - Luis Daniel Jesús Diaz Leguizamon (colaborador) - luis.diaz.l@upch.pe <br />
