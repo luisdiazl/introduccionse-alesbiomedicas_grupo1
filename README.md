@@ -1,8 +1,11 @@
 # Introducción a Señales Biomédicas Grupo 1
 
 Repositorio del curso Introducción a Señales Biomédicas
+## Tabla de contenidos:
+---
+-[Integrantes](#Integrantes)
 
-Integrantes:  <br />
+## Integrantes:  <br />
 - Luis Daniel Jesús Diaz Leguizamon (colaborador) - luis.diaz.l@upch.pe <br />
 - Giancarlo Arian Guarnizo Bellido (colaborador) - a20191812@pucp.edu.pe <br />
 - Diego Fernando Segura Contreras (colaborador) - diego.segura.c@upch.pe <br />
@@ -38,19 +41,18 @@ Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinad
 ## Objetivo del curso:
 En este curso tenemos como objetivo el realizar un proyecto de investigación en el que se adquirirá y procesará las señales biomedicas recibidas de un electroencefalograma (EEG).
 
-## Tabla de contenidos:
+
 
 UNIDAD 1: Introducción, adquisición y principios fisiológicos de las señales biomédicas <br />
 UNIDAD 2: Análisis de ECG, EMG y EEG <br />
 UNIDAD 3: Introducción al tratamiento digital de señales <br />
 UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas <br />
 
-![Curso](imges/Contenido_del_curso.png)
 
 ## Materiales a usar:
 |            Material                                                |                              Imagen referencial          |
 |--------------------------------------------------------------------|-----------------------------------------------------------| 
-| Ultracortex EEG Headset: Auriculares imprimibles en 3D, con código abierto, que han sido diseñados para ser compatibles con cualquier placa OpenBCI. Además, es capaz de registrar la actividad cerebral (EEG).|       ![Ultracortex](imges/Ultracortex1.png)              | 
+| **Ultracortex EEG Headset**: Auriculares imprimibles en 3D, con código abierto, que han sido diseñados para ser compatibles con cualquier placa OpenBCI. Además, es capaz de registrar la actividad cerebral (EEG).|       ![Ultracortex](imges/Ultracortex1.png)              | 
 
 
 
