@@ -13,7 +13,7 @@ Breve descripción de EMG con imágenes
 Descripción de sus componentes y conexiones
 
 ## Ejercicio 1 Músculo Biceps
-- Imagenes y Videos CONEXIÓN USADA
+- Imágenes y videos CONEXIÓN USADA
 - Video de señal en silencio eléctrico o reposo 
 - Ploteo de señal en OpenSignals 
 - Resumen y explicación de señal
