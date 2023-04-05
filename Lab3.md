@@ -2,14 +2,14 @@
 ------------
 ## Tabla de contenidos
 - [¿Qué es EMG?](#¿Qué-es-EMG)
-- [BITalino Conceptos](#BITalino-Conceptos)
+- [BITalino (Conceptos)](#BITalino-(Conceptos))
 - [Ejercicio 1 Músculo Biceps](#Ejercicio-1-Músculo-Biceps)
 - [Ejercicio 2 Músculo](#Ejercicio-2-Músculo)
 
 ## ¿Qué es EMG?
 Breve descripción de EMG con imágenes
 
-## BITalino Conceptos
+## BITalino (Conceptos)
 Descripción de sus componentes y conexiones
 
 ## Ejercicio 1 Músculo Biceps
