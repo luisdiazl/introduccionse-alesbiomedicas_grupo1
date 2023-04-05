@@ -20,6 +20,8 @@ Descripción de sus componentes y conexiones
 - Archivo de datos de señal (pon en repositorio)
 - Ploteo de señal en Python
 
+JUSTIFICAR RUIDO POR CADENA METÁLICA
+
 ## Ejercicio 2 Músculo 
 - Imagenes y Videos CONEXIÓN USADA
 - Video de señal en silencio eléctrico o reposo 
@@ -27,3 +29,5 @@ Descripción de sus componentes y conexiones
 - Resumen y explicación de señal
 - Archivo de datos de señal (pon en repositorio)
 - Ploteo de señal en Python
+
+JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA
