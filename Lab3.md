@@ -1,32 +1,33 @@
 # Laboratorio 3
 ------------
 ## Tabla de contenidos
-- [¿Qué es EMG?](#¿Qué-es-EMG)
 - [BITalino (Conceptos)](#BITalino-(Conceptos))
-- [Ejercicio 1 Músculo Biceps](#Ejercicio-1-Músculo-Biceps)
-- [Ejercicio 2 Músculo](#Ejercicio-2-Músculo)
+- [¿Qué es EMG?](#¿Qué-es-EMG)
+- [Ejercicio 1 (Músculo Biceps)](#Ejercicio-1-(Músculo-Biceps))
+- [Ejercicio 2 (Músculo Gastrocnemio)](#Ejercicio-2-(Músculo Gastrocnemio))
 - [Referencias](#Referencias)
 <p class="text-justify">
 
+## BITalino:
+BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] <br />
+Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6. <br />
+
+![bitalino](imges/bitalino.jpg) <br /><br />
+  
 ## ¿Qué es EMG?
 Electromiografía es un registro extracelular de la actividad bioeléctrica en respuesta a la estimulación nerviosa del músculo, principalmente para la evaluación de músculos y sus correspondientes células nerviosas que los controlan. [][] Para ello, su método de adquisición de estas señales se dan a través de pequeñas agujas o electrodos a través de la piel hacia el músculo, estos pueden ser superficiales o intramusculares, pudiendo registrar así la actividad eléctrica del músculo en cuestión. <br />
 EMG logra realizar la medición en tres periodos de tiempo: reposo, contracción leve y contracción forzada (estado activo). Inicialmente, se mide cuando el músculo no produce señal alguna, más que un breve periodo inicial de actividad.  Luego, las neuronas motoras transmiten señales eléctricas generando la contracción del músculo. [] En un primer instante de tiempo, se le pide al sujeto que contraiga el músculo sea levantando o doblando alguna extremidad. Lo cual crea que el potencial de acción, junto con su amplitud y forma de onda, informe sobre su capacidad de respuesta ante estímulos nerviosos. A medida que transcurre el tiempo, y se aplica mayor fuerza, aumenta la contracción muscular, consiguiendo activar más fibras musculares, y, por ende, potenciales de acción. [] <br />
   
 ![EMG](imges/EMG.jpg) <br /><br />
-
-## BITalino (Conceptos)
-BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] <br />
-Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6. <br />
-
-![bitalino](imges/bitalino.jpg) <br /><br />
-
-## Ejercicio 1 Músculo Biceps 
+  
+## Ejercicio 1 (Músculo Biceps): 
 - Imágenes y videos CONEXIÓN USADA 
 - Video de señal en silencio eléctrico o reposo 
 - Ploteo de señal en OpenSignals 
+  
 - Resumen y explicación de señal (2) <br />
 Como primer ejercicio, se realizó una medición de EMG en el músculo bíceps braquial del miembro superior izquierdo. Se realizaron 3 tipos de mediciones: Brazo en reposo, brazo en movimiento de flexión y brazo en movimiento de extensión. <br />
-En la primera medición, el brazo permaneció en reposo encima de una mesa con la finalidad de que los músculos del usuario estén relajados. Esto se representa como un señal constante y pequeña en la gráfica obtenida que viene a ser ruido ya que no hay una actividad eléctrica presente en el músculo. El ruido puede provenir de distintas fuentes como el ruido inherente de fuentes eléctricas, ruido del medio ambiente, movimiento involuntario del usuario, un mal contacto entre el electrodo y la piel, entre otros [a]. <br /><br />
+En la primera medición, el brazo permaneció en reposo encima de una mesa con la finalidad de que los músculos del usuario estén relajados. Esto se representa como un señal constante y pequeña en la gráfica obtenida que viene a ser ruido ya que no hay una actividad eléctrica presente en el músculo. El ruido puede provenir de distintas fuentes como el ruido inherente de fuentes eléctricas, ruido del medio ambiente, movimiento involuntario del usuario, un mal contacto entre el electrodo y la piel, entre otros []. <br /><br />
 https://www.ijsrp.org/research-paper-0517.php?rp=P656368 <br /><br />
   
 Señal obtenida cuando el músculo está en reposo: <br />
@@ -36,6 +37,7 @@ En la segunda medición, el brazo realiza una flexión de forma gradual y con un
   
 Señal obtenida del ejercicio de flexión cuando comienza el movimiento: <br />
 ![Image8](imges/Lab3/EMG_biceps_flexion2.PNG) <br /><br />
+  
 Señal obtenida del ejercicio de flexión cuando se ejerce la máxima fuerza: <br />
 ![Image9](imges/Lab3/EMG_biceps_flexion3.PNG) <br /><br />
   
@@ -43,6 +45,7 @@ En la tercera medición se tiene un procedimiento y resultado parecido, el brazo
   
 Señal obtenida del ejercicio de extensión cuando comienza el movimiento: <br />
 ![Image10](imges/Lab3/EMG_biceps_extension2.PNG) <br /><br />
+  
 Señal obtenida del ejercicio de extensión cuando se ejerce la máxima fuerza: <br />
 ![Image11](imges/Lab3/EMG_biceps_extension3.PNG) <br /><br />
   
@@ -73,7 +76,7 @@ JUSTIFICAR RUIDO POR CADENA METÁLICA (3)  <br />
 Se observa en la de señal EMG captada por el BiTalino una distorisión en representado en la frecuencia de la actividad eléctrica del músculo del Biceps una distorción que en los casos puede deberse a que el usuario poseía en el momento de la toma de muestra una cadena de plata por lo que los electrodos de EMG captan un voltaje en la membrana de la células epiteliales distorcionados por el elemento métalico ubicado en su cuello, lo que se distorciona y se evidencia en el gráfico de las freccuencias.  <br /> <br />
 </p>
 
-## Ejercicio 2 Músculo Gastrocnemio
+## Ejercicio 2 (Músculo Gastrocnemio):
 - ### Imagenes y Videos CONEXIÓN USADA
 - ### Video de señal en silencio eléctrico o reposo 
 - ### Ploteo de señal en OpenSignals 
