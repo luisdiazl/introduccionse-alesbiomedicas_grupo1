@@ -31,7 +31,7 @@ EMG logra realizar la medición en tres periodos de tiempo: reposo, contracción
 - Video de señal en silencio eléctrico o reposo 
 - Ploteo de señal en OpenSignals 
   
-- Resumen y explicación de señal (2) <br />
+- Resumen y explicación de señal: <br />
 Como primer ejercicio, se realizó una medición de EMG en el músculo bíceps braquial del miembro superior izquierdo. Se realizaron 3 tipos de mediciones: Brazo en reposo, brazo en movimiento de flexión y brazo en movimiento de extensión. <br />
 En la primera medición, el brazo permaneció en reposo encima de una mesa con la finalidad de que los músculos del usuario estén relajados. Esto se representa como un señal constante y pequeña en la gráfica obtenida que viene a ser ruido ya que no hay una actividad eléctrica presente en el músculo. El ruido puede provenir de distintas fuentes como el ruido inherente de fuentes eléctricas, ruido del medio ambiente, movimiento involuntario del usuario, un mal contacto entre el electrodo y la piel, entre otros []. <br /><br />
 https://www.ijsrp.org/research-paper-0517.php?rp=P656368 <br /><br />
@@ -86,9 +86,9 @@ Se observa en la de señal EMG captada por el BiTalino una distorisión en repre
 - ### Imagenes y Videos CONEXIÓN USADA
 - ### Video de señal en silencio eléctrico o reposo 
 - ### Ploteo de señal en OpenSignals 
-- ### Resumen y explicación de señal (4)
+- ### Resumen y explicación de señal
 <p class="text-justify">
-La señal captada del gastrocnemio, a nivel basal, fue menos notoria que la del bícep braquial. No obstante, vale resaltar que esta región anatómica presentaba una mayor concentración de vello corporal lo cual puede perjudicar la captación de la señal EMG. Al momento de flexionar la extremidad del miembro inferior, notamos cambios en la amplitud de la señal captada. La amplitud, en efecto, fue mayor cuando se utilizó más fuerza para superar la resistencia infligida contra el movimiento de la pierna. Finalmente, la posición del suijeto de prueba pudo afectar la fidelidad de la señal EMG dado que la dispoción de electrodos y el BITalino dificultaron conseguir una posición totalmente en reposo. 
+La señal captada del gastrocnemio, a nivel basal, fue menos notoria que la del bícep braquial. Al momento de flexionar la extremidad del miembro inferior, notamos cambios en la amplitud de la señal captada. La amplitud, en efecto, fue mayor cuando se utilizó más fuerza para superar la resistencia infligida contra el movimiento de la pierna. Finalmente, la posición del sujeto de prueba pudo afectar la fidelidad de la señal EMG dado que la dispoción de electrodos y el BITalino dificultaron conseguir una posición totalmente en reposo. 
   <br /> <br />
 </p>
 - ### Archivo de datos de señal (pon en repositorio)
