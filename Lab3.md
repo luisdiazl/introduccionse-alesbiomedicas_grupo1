@@ -1,22 +1,13 @@
 # Laboratorio 3
 ------------
 ## Tabla de contenidos
-- [Objetivos del laboratorio](#objetivos-del-laboratorio)
 - [¿Qué es EMG?](#¿Qué-es-EMG)
 - [BITalino (Conceptos)](#BITalino-(Conceptos))
 - [Ejercicio 1 Músculo Biceps](#Ejercicio-1-Músculo-Biceps)
 - [Ejercicio 2 Músculo](#Ejercicio-2-Músculo)
-- [Referencias](#Referencias)
 <p class="text-justify">
-  
-## Objetivos del laboratorio:
-  - Adquirir señales biomédicas de EMG y ECG.
-  - Hacer una correcta configuración de BiTalino.
-  - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolutio
-  
 ## ¿Qué es EMG? (nicolle)
-Electromiografía es un registro extracelular de la actividad bioeléctrica en respuesta a la estimulación nerviosa del músculo, principalmente para la evaluación de músculos y sus correspondientes células nerviosas que los controlan. [1][2] Para ello, su método de adquisición de estas señales se dan a través de pequeñas agujas o electrodos a través de la piel hacia el músculo, estos pueden ser superficiales o intramusculares, pudiendo registrar así la actividad eléctrica del músculo en cuestión. <br />
-EMG logra realizar la medición en tres periodos de tiempo: reposo, contracción leve y contracción forzada (estado activo). [1] Inicialmente, se mide cuando el músculo no produce señal alguna, más que un breve periodo inicial de actividad.  Luego, las neuronas motoras transmiten señales eléctricas generando la contracción del músculo. [2] En un primer instante de tiempo, se le pide al sujeto que contraiga el músculo sea levantando o doblando alguna extremidad. Lo cual crea que el potencial de acción, junto con su amplitud y forma de onda, informe sobre su capacidad de respuesta ante estímulos nerviosos. A medida que transcurre el tiempo, y se aplica mayor fuerza, aumenta la contracción muscular, consiguiendo activar más fibras musculares, y, por ende, potenciales de acción. [1]<br />
+Breve descripción de EMG con imágenes
 
 ## BITalino (Conceptos) (nicolle)
 Descripción de sus componentes y conexiones
@@ -38,13 +29,13 @@ Como se mencionón anteriormente, la primera señal medida fue la del músculo d
 ![Image1](imges/Lab3/Imagen_1.png) <br /><br />
 
 
-Se presenta la gráfica de extensión, con una fuerza en contra del movimiento realizado, la cual tuvo una duración de 1 segundo:<br />
+Se presenta las gráficas de extensión, con una fuerza en contra del movimiento realizado Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 1 segundo:<br />
 ![Image2](imges/Lab3/Señal_Biceps_1.png) <br /><br />
 
 A continuación se muestra su gráfica FFT en decibelios:<br />
 ![Image3](imges/Lab3/FFT_Biceps_1.png) <br /><br />
 
-Esta gráfica representa la flexión del brazo, la cual tuvo una duración de 5 segundos. Mencionar que igual que el caso anterior, tivo una fuerza en contra de su movimeinto: <br />
+Esta gráfica representa la extensión del brazo, la cual tuvo una duración de 5 segundos <br />
 ![Image4](imges/Lab3/Señal_Biceps_2.png)<br /><br />
 A continuación se muestra su gráfica FFT en decibelios:<br />
 ![Image5](imges/Lab3/FFT_Biceps_2.png) <br /> <br />
@@ -59,31 +50,16 @@ Se observa en la de señal EMG captada por el BiTalino una distorisión en repre
 - ### Video de señal en silencio eléctrico o reposo 
 - ### Ploteo de señal en OpenSignals 
 - ### Resumen y explicación de señal (4)
+<p class="text-justify">
+La señal captada del gastrocnemio, a nivel basal, fue menos notoria que la del bícep braquial. No obstante, vale resaltar que esta región anatómica presentaba una mayor concentración de vello corporal lo cual puede perjudicar la captación de la señal EMG. Al momento de flexionar la extremidad del miembro inferior, notamos cambios en la amplitud de la señal captada. La amplitud, en efecto, fue mayor cuando se utilizó más fuerza para superar la resistencia infligida contra el movimiento de la pierna. Finalmente, la posición del suijeto de prueba pudo afectar la fidelidad de la señal EMG dado que la dispoción de electrodos y el BITalino dificultaron conseguir una posición totalmente en reposo. 
+  <br /> <br />
+</p>
 - ### Archivo de datos de señal (pon en repositorio)
 - ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) (6)
-La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizado en en plano superficial de la parte posterior de la pierna. AL igual que el caso anterior, se reliazó una medición general, donde se encunetran la flexión y la extensión de la pierna para medir la actividad del músculo en cuestión, obteniendo así la siguiente gráfica. Mencioar que los movimientos realizados fueron hechos con una fuerza que iba en contra del movimeiento:<br />
+La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizado en en plano superficial de la parte posterior de la pierna. AL igual que el caso anterior, se realizó una medición general, donde se encunetran la flexión y la extensión de la pierna para medir la actividad del músculo en cuestión, obteniendo así la siguiente gráfica:<br />
 ![Image6](imges/Lab3/Imagen_2.png) <br /><br />
-
-De la gráfica anteior se extrae la gráfica de extensión. Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 3.5 segundo:<br />
-![Image7](imges/Lab3/Señal_Gastrocnemio_1.png) <br /><br />
-
-De la misma forma se muestra su gráfica FFT en decibelios:<br />
-![Image8](imges/Lab3/FFT_Gastrocnemio_1.png) <br /><br />
-
-Así mismo, esta gráfica representa la flexión del brazo, la cual tuvo una duración de 2 segundos: <br />
-![Image9](imges/Lab3/Señal_Gastrocnemio_2.png)<br /><br />
-
-Ahora se muestra su gráfica FFT en decibelios:<br />
-![Image10](imges/Lab3/FFT_Gastrocnemio_2.png) <br /> <br />
 
 
 JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
 
 </p>
-
-## Referencias
-[1] “Electromyography (EMG),” Hopkinsmedicine.org, Aug. 08, 2021. https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electromyography-emg#:~:text=Electromyography%20(EMG)%20measures%20muscle%20response,the%20skin%20into%20the%20muscle. (accessed Apr. 06, 2023).
-‌<br />
-[2] “Electromiografía - Mayo Clinic,” Mayoclinic.org, 2019. https://www.mayoclinic.org/es-es/tests-procedures/emg/about/pac-20393913 (accessed Apr. 06, 2023).
-‌<br />
-[3] aca Giancarlo <br />
