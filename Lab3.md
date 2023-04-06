@@ -1,13 +1,18 @@
 # Laboratorio 3
 ------------
 ## Tabla de contenidos
-- [BITalino (Conceptos)](#BITalino-(Conceptos))
+- [Objetivos](#Objetivos)
+- [BITalino](#BITalino-(Conceptos))
 - [¿Qué es EMG?](#¿Qué-es-EMG)
 - [Ejercicio 1 (Músculo Biceps)](#Ejercicio-1-(Músculo-Biceps))
 - [Ejercicio 2 (Músculo Gastrocnemio)](#Ejercicio-2-(Músculo-Gastrocnemio))
 - [Referencias](#Referencias)
 <p class="text-justify">
-
+  
+##Objetivos:
+  - Adquirir señales biomédicas de EMG y ECG. <br />
+  - Hacer una correcta configuración de BiTalino. <br />
+  - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution. <br />
 ## BITalino:
 BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] <br />
 Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6. <br />
@@ -71,7 +76,7 @@ Esta gráfica representa la extensión del brazo, la cual tuvo una duración de 
 A continuación se muestra su gráfica FFT en decibelios:<br />
 ![Image5](imges/Lab3/FFT_Biceps_2.png) <br /> <br />
 
-##Observaciones: <br />
+## Observaciones: <br />
 <p class="text-justify">
 Se observa en la de señal EMG captada por el BiTalino una distorisión en representado en la frecuencia de la actividad eléctrica del músculo del Biceps una distorción que en los casos puede deberse a que el usuario poseía en el momento de la toma de muestra una cadena de plata por lo que los electrodos de EMG captan un voltaje en la membrana de la células epiteliales distorcionados por el elemento métalico ubicado en su cuello, lo que se distorciona y se evidencia en el gráfico de las freccuencias.  <br /> <br />
 </p>
@@ -86,12 +91,12 @@ La señal captada del gastrocnemio, a nivel basal, fue menos notoria que la del 
   <br /> <br />
 </p>
 - ### Archivo de datos de señal (pon en repositorio)
-- ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) (6)
+- ### Ploteo de señal en Python
 La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizado en en plano superficial de la parte posterior de la pierna. AL igual que el caso anterior, se realizó una medición general, donde se encunetran la flexión y la extensión de la pierna para medir la actividad del músculo en cuestión, obteniendo así la siguiente gráfica:<br />
 ![Image6](imges/Lab3/Imagen_2.png) <br /><br />
 
 
-##Observaciones: 
+## Observaciones: 
 Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
 
 </p>
