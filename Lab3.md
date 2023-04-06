@@ -9,9 +9,9 @@
 <p class="text-justify">
   
 ## Objetivos del laboratorio:
-  ● Adquirir señales biomédicas de EMG y ECG.
-  ● Hacer una correcta configuración de BiTalino.
-  ● Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolutio
+  - Adquirir señales biomédicas de EMG y ECG.
+  - Hacer una correcta configuración de BiTalino.
+  - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolutio
   
 ## ¿Qué es EMG? (nicolle)
 Breve descripción de EMG con imágenes
