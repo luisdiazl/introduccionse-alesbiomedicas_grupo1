@@ -5,12 +5,20 @@
 - [BITalino (Conceptos)](#BITalino-(Conceptos))
 - [Ejercicio 1 Músculo Biceps](#Ejercicio-1-Músculo-Biceps)
 - [Ejercicio 2 Músculo](#Ejercicio-2-Músculo)
+- [Referencias](#Referencias)
 <p class="text-justify">
-## ¿Qué es EMG? (nicolle)
-Breve descripción de EMG con imágenes
 
-## BITalino (Conceptos) (nicolle)
-Descripción de sus componentes y conexiones
+## ¿Qué es EMG?
+Electromiografía es un registro extracelular de la actividad bioeléctrica en respuesta a la estimulación nerviosa del músculo, principalmente para la evaluación de músculos y sus correspondientes células nerviosas que los controlan. [][] Para ello, su método de adquisición de estas señales se dan a través de pequeñas agujas o electrodos a través de la piel hacia el músculo, estos pueden ser superficiales o intramusculares, pudiendo registrar así la actividad eléctrica del músculo en cuestión. <br />
+EMG logra realizar la medición en tres periodos de tiempo: reposo, contracción leve y contracción forzada (estado activo). Inicialmente, se mide cuando el músculo no produce señal alguna, más que un breve periodo inicial de actividad.  Luego, las neuronas motoras transmiten señales eléctricas generando la contracción del músculo. [] En un primer instante de tiempo, se le pide al sujeto que contraiga el músculo sea levantando o doblando alguna extremidad. Lo cual crea que el potencial de acción, junto con su amplitud y forma de onda, informe sobre su capacidad de respuesta ante estímulos nerviosos. A medida que transcurre el tiempo, y se aplica mayor fuerza, aumenta la contracción muscular, consiguiendo activar más fibras musculares, y, por ende, potenciales de acción. [] <br />
+  
+![EMG](imges/EMG.jpg) <br /><br />
+
+## BITalino (Conceptos)
+BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] <br />
+Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6. <br />
+
+![bitalino](imges/bitalino.jpg) <br /><br />
 
 ## Ejercicio 1 Músculo Biceps 
 - Imágenes y videos CONEXIÓN USADA 
@@ -83,3 +91,6 @@ La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizad
 JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
 
 </p>
+
+## Referencias
+- 
