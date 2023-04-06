@@ -14,8 +14,7 @@
   - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolutio
   
 ## ¿Qué es EMG? (nicolle)
-Electromiografía es un registro extracelular de la actividad bioeléctrica en respuesta a la estimulación nerviosa del músculo, principalmente para la evaluación de músculos y sus correspondientes células nerviosas que los controlan. [1][2] Para ello, su método de adquisición de estas señales se dan a través de pequeñas agujas o electrodos a través de la piel hacia el músculo, estos pueden ser superficiales o intramusculares, pudiendo registrar así la actividad eléctrica del músculo en cuestión. 
-EMG logra realizar la medición en tres periodos de tiempo: reposo, contracción leve y contracción forzada (estado activo). [1] Inicialmente, se mide cuando el músculo no produce señal alguna, más que un breve periodo inicial de actividad.  Luego, las neuronas motoras transmiten señales eléctricas generando la contracción del músculo. [2] En un primer instante de tiempo, se le pide al sujeto que contraiga el músculo sea levantando o doblando alguna extremidad. Lo cual crea que el potencial de acción, junto con su amplitud y forma de onda, informe sobre su capacidad de respuesta ante estímulos nerviosos. A medida que transcurre el tiempo, y se aplica mayor fuerza, aumenta la contracción muscular, consiguiendo activar más fibras musculares, y, por ende, potenciales de acción. [1]
+Breve descripción de EMG con imágenes
 
 ## BITalino (Conceptos) (nicolle)
 Descripción de sus componentes y conexiones
@@ -28,8 +27,9 @@ Descripción de sus componentes y conexiones
 Como primer ejercicio, se realizó una medición de EMG en el músculo bíceps braquial del miembro superior izquierdo. Se realizaron 3 tipos de mediciones: Brazo en reposo, brazo en movimiento de flexión y brazo en movimiento de extensión. <br />
 En la primera medición, el brazo permaneció en reposo encima de una mesa con la finalidad de que los músculos del usuario estén relajados. Esto se representa como un señal constante y pequeña en la gráfica obtenida que viene a ser ruido ya que no hay una actividad eléctrica presente en el músculo. El ruido puede provenir de distintas fuentes como el ruido inherente de fuentes eléctricas, ruido del medio ambiente, movimiento involuntario del usuario, un mal contacto entre el electrodo y la piel, entre otros [a]. <br />
 https://www.ijsrp.org/research-paper-0517.php?rp=P656368 <br />
-En la segunda medición, el brazo realiza una flexión de forma gradual y con una cierta fuerza que va aumentando de intensidad a medida que va realizándose el movimiento. En la gráfica obtenida se puede observar como las amplitudes van aumentando hasta llegar a unos picos altos debido a que al final del movimiento se le pide al usuario que realice la máxima contracción posible.
-
+En la segunda medición, el brazo realiza una flexión de forma gradual y con una cierta fuerza que va aumentando de intensidad a medida que va realizándose el movimiento. En la gráfica obtenida se puede observar como las amplitudes van aumentando hasta llegar a unos picos altos debido a que al final del movimiento se le pide al usuario que realice la máxima contracción posible. <br />
+Esta diferencia de resultados es debido a la función que cumple ciertas regiones del músculo al realizar un movimiento. La zona evaluada es el bíceps braquial, este músculo está activo durante la flexión ya que se contrae. Cuando se realiza una flexión, el bíceps braquial contribuye mediante una contracción, lo que significa que se genera una alta actividad muscular representándose como la detección de una alta actividad eléctrica dependiente de la intensidad a lo largo del tiempo. En una extensión sucede lo contrario, el tríceps braquial es el músculo que realiza una mayor actividad muscular mientras que el bíceps tenderá a relajarse generando una menor actividad eléctrica en todo el proceso [b].
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500348/
 
 - ### Archivo de datos de señal (pon en repositorio)
 - ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) <br />
