@@ -4,7 +4,7 @@
 - [BITalino (Conceptos)](#BITalino-(Conceptos))
 - [¿Qué es EMG?](#¿Qué-es-EMG)
 - [Ejercicio 1 (Músculo Biceps)](#Ejercicio-1-(Músculo-Biceps))
-- [Ejercicio 2 (Músculo Gastrocnemio)](#Ejercicio-2-(Músculo Gastrocnemio))
+- [Ejercicio 2 (Músculo Gastrocnemio)](#Ejercicio-2-(Músculo-Gastrocnemio))
 - [Referencias](#Referencias)
 <p class="text-justify">
 
@@ -71,7 +71,7 @@ Esta gráfica representa la extensión del brazo, la cual tuvo una duración de 
 A continuación se muestra su gráfica FFT en decibelios:<br />
 ![Image5](imges/Lab3/FFT_Biceps_2.png) <br /> <br />
 
-JUSTIFICAR RUIDO POR CADENA METÁLICA (3)  <br />
+##Observaciones: <br />
 <p class="text-justify">
 Se observa en la de señal EMG captada por el BiTalino una distorisión en representado en la frecuencia de la actividad eléctrica del músculo del Biceps una distorción que en los casos puede deberse a que el usuario poseía en el momento de la toma de muestra una cadena de plata por lo que los electrodos de EMG captan un voltaje en la membrana de la células epiteliales distorcionados por el elemento métalico ubicado en su cuello, lo que se distorciona y se evidencia en el gráfico de las freccuencias.  <br /> <br />
 </p>
@@ -91,7 +91,8 @@ La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizad
 ![Image6](imges/Lab3/Imagen_2.png) <br /><br />
 
 
-JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
+##Observaciones: 
+Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
 
 </p>
 
