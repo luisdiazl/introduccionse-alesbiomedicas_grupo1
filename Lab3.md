@@ -23,6 +23,7 @@ En la primera medición, el brazo permaneció en reposo encima de una mesa con l
 - Ploteo de señal en Python (una breve descripción de de que se ve en la señal) (6)
 
 JUSTIFICAR RUIDO POR CADENA METÁLICA (3)
+Se observa en la de señal EMG captada por el BiTalino una distorisión en representado en la frecuencia de la actividad eléctrica del músculo del Biceps una distorción que en los casos puede deberse a que el usuario poseía en el momento de la toma de muestra una cadena de plata por lo que los electrodos de EMG captan un voltaje en la membrana de la células epiteliales distorcionados por el elemento métalico ubicado en su cuello, lo que se distorciona y se evidencia en el gráfico de las freccuencias.
 
 ## Ejercicio 2 Músculo 
 - Imagenes y Videos CONEXIÓN USADA
