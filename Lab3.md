@@ -82,6 +82,8 @@ JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos m
 </p>
 
 ## Referencias
-[1]
-[2]
-[3] aca Giancarlo
+[1] “Electromyography (EMG),” Hopkinsmedicine.org, Aug. 08, 2021. https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electromyography-emg#:~:text=Electromyography%20(EMG)%20measures%20muscle%20response,the%20skin%20into%20the%20muscle. (accessed Apr. 06, 2023).
+‌<br />
+[2] “Electromiografía - Mayo Clinic,” Mayoclinic.org, 2019. https://www.mayoclinic.org/es-es/tests-procedures/emg/about/pac-20393913 (accessed Apr. 06, 2023).
+‌<br />
+[3] aca Giancarlo <br />
