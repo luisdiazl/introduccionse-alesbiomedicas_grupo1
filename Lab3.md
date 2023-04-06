@@ -16,7 +16,7 @@ Descripción de sus componentes y conexiones
 - Imágenes y videos CONEXIÓN USADA 
 - Video de señal en silencio eléctrico o reposo 
 - Ploteo de señal en OpenSignals 
-- Resumen y explicación de señal (2)
+- Resumen y explicación de señal (2) <br />
 Como primer ejercicio, se realizó una medición de EMG en el músculo bíceps braquial del miembro superior izquierdo. Se realizaron 3 tipos de mediciones: Brazo en reposo, brazo en movimiento de flexión y brazo en movimiento de extensión. 
 En la primera medición, el brazo permaneció en reposo encima de una mesa con la finalidad de que los músculos del usuario estén relajados. Esto se representa como un señal constante y pequeña en la gráfica obtenida que viene a ser ruido ya que no hay una actividad eléctrica presente en el músculo.
 - Archivo de datos de señal (pon en repositorio)
