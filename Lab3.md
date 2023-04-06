@@ -28,6 +28,7 @@ EMG logra realizar la medición en tres periodos de tiempo: reposo, contracción
   
 ## Ejercicio 1 (Músculo Biceps): 
 - Imágenes y videos CONEXIÓN USADA 
+  ![musuclo1](imges/Lab3/musculo1.jpeg) <br /><br />
 - Video de señal en silencio eléctrico o reposo 
 - Ploteo de señal en OpenSignals 
   
@@ -59,8 +60,6 @@ Esta diferencia de resultados es debido a la función que cumple ciertas regione
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500348/
 
 
-
-- ### Archivo de datos de señal (pon en repositorio)
 - ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) <br />
 Como se mencionón anteriormente, la primera señal medida fue la del músculo del bíceps. En esta primera imagen se puede observar la gráfica completa medida en nuestro compañero, la cual tiene una duración de aproximadamente 600 segundos, por tal motivo hay algunos valores que se encuentran superior a 1000 Hz (Frecuencia de sampleo); sin embargo, estas mediadas son productos de movimeintos ajenos a la experiencia, por tal motivo no se toma en cuenta. <br />
 ![Image1](imges/Lab3/Imagen_1.png) <br /><br />
@@ -84,6 +83,7 @@ Se observa en la de señal EMG captada por el BiTalino una distorisión en repre
 
 ## Ejercicio 2 (Músculo Gastrocnemio):
 - ### Imagenes y Videos CONEXIÓN USADA
+![musculo2](imges/Lab3/musculo2.jpeg) <br /><br />
 - ### Video de señal en silencio eléctrico o reposo 
 - ### Ploteo de señal en OpenSignals 
 - ### Resumen y explicación de señal
@@ -91,7 +91,7 @@ Se observa en la de señal EMG captada por el BiTalino una distorisión en repre
 La señal captada del gastrocnemio, a nivel basal, fue menos notoria que la del bícep braquial. Al momento de flexionar la extremidad del miembro inferior, notamos cambios en la amplitud de la señal captada. La amplitud, en efecto, fue mayor cuando se utilizó más fuerza para superar la resistencia infligida contra el movimiento de la pierna. Finalmente, la posición del sujeto de prueba pudo afectar la fidelidad de la señal EMG dado que la dispoción de electrodos y el BITalino dificultaron conseguir una posición totalmente en reposo. 
   <br /> <br />
 </p>
-- ### Archivo de datos de señal (pon en repositorio)
+
 - ### Ploteo de señal en Python
 La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizado en en plano superficial de la parte posterior de la pierna. AL igual que el caso anterior, se realizó una medición general, donde se encunetran la flexión y la extensión de la pierna para medir la actividad del músculo en cuestión, obteniendo así la siguiente gráfica:<br />
 ![Image6](imges/Lab3/Imagen_2.png) <br /><br />
