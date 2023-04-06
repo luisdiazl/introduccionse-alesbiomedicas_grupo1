@@ -32,4 +32,5 @@ JUSTIFICAR RUIDO POR CADENA METÁLICA (3)
 - Archivo de datos de señal (pon en repositorio)
 - Ploteo de señal en Python (una breve descripción de de que se ve en la señal) (6)
 
-JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA (5)
+JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
+
