@@ -36,13 +36,13 @@ Como se mencionón anteriormente, la primera señal medida fue la del músculo d
 ![Image1](imges/Lab3/Imagen_1.png) <br /><br />
 
 
-Se presenta las gráficas de extensión, con una fuerza en contra del movimiento realizado Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 1 segundo:<br />
+Se presenta la gráfica de extensión, con una fuerza en contra del movimiento realizado, la cual tuvo una duración de 1 segundo:<br />
 ![Image2](imges/Lab3/Señal_Biceps_1.png) <br /><br />
 
 A continuación se muestra su gráfica FFT en decibelios:<br />
 ![Image3](imges/Lab3/FFT_Biceps_1.png) <br /><br />
 
-Esta gráfica representa la extensión del brazo, la cual tuvo una duración de 5 segundos <br />
+Esta gráfica representa la flexión del brazo, la cual tuvo una duración de 5 segundos. Mencionar que igual que el caso anterior, tivo una fuerza en contra de su movimeinto: <br />
 ![Image4](imges/Lab3/Señal_Biceps_2.png)<br /><br />
 A continuación se muestra su gráfica FFT en decibelios:<br />
 ![Image5](imges/Lab3/FFT_Biceps_2.png) <br /> <br />
@@ -59,8 +59,20 @@ Se observa en la de señal EMG captada por el BiTalino una distorisión en repre
 - ### Resumen y explicación de señal (4)
 - ### Archivo de datos de señal (pon en repositorio)
 - ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) (6)
-La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizado en en plano superficial de la parte posterior de la pierna. AL igual que el caso anterior, se reliazó una medición general, donde se encunetran la flexión y la extensión de la pierna para medir la actividad del músculo en cuestión, obteniendo así la siguiente gráfica:<br />
+La segunda medición de EMG fue realizada en el músculo gastrocnemio, localizado en en plano superficial de la parte posterior de la pierna. AL igual que el caso anterior, se reliazó una medición general, donde se encunetran la flexión y la extensión de la pierna para medir la actividad del músculo en cuestión, obteniendo así la siguiente gráfica. Mencioar que los movimientos realizados fueron hechos con una fuerza que iba en contra del movimeiento:<br />
 ![Image6](imges/Lab3/Imagen_2.png) <br /><br />
+
+De la gráfica anteior se extrae la gráfica de extensión. Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 3.5 segundo:<br />
+![Image7](imges/Lab3/Señal_Gastrocnemio_1.png) <br /><br />
+
+De la misma forma se muestra su gráfica FFT en decibelios:<br />
+![Image8](imges/Lab3/FFT_Gastrocnemio_1.png) <br /><br />
+
+Así mismo, esta gráfica representa la flexión del brazo, la cual tuvo una duración de 2 segundos: <br />
+![Image9](imges/Lab3/Señal_Gastrocnemio_2.png)<br /><br />
+
+Ahora se muestra su gráfica FFT en decibelios:<br />
+![Image10](imges/Lab3/FFT_Gastrocnemio_2.png) <br /> <br />
 
 
 JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
