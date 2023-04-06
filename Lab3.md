@@ -29,15 +29,17 @@ En este presente trabajo se presenterá las gráficas de los datos obtenidos dur
 Como se mencionón anteriormente, la primera señal medida fue la del músculo del bíceps.
 ![Image1](imges/Lab3/Imagen_1.png) <br />
 
-En esta primera imagen se puede observar la gráfica completa medida en nuestro compañer, la cual tiene una duración de aproximadamente 600 segundos, por tal motivo hay algunos valores que se encuentran superior a 1000 Hz (Frecuencia de sampleo); sin embargo, estas mediadas son productos de movimeintos ajenos a la experiencia, por tal motivo no se toma en cuenta. <br />
-Se presenta las gráficas de extensión y flexión, con una fuerza en contyra del movimiento realizado:<br />
-![Image2](imges/Lab3/Señal_Biceps_1.png) <br />
+En esta primera imagen se puede observar la gráfica completa medida en nuestro compañer0, la cual tiene una duración de aproximadamente 600 segundos, por tal motivo hay algunos valores que se encuentran superior a 1000 Hz (Frecuencia de sampleo); sin embargo, estas mediadas son productos de movimeintos ajenos a la experiencia, por tal motivo no se toma en cuenta. <br />
+Se presenta las gráficas de extensión, con una fuerza en contra del movimiento realizado Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 1 segundo:<br />
+![Image2](imges/Lab3/Señal_Biceps_1.png) <br /><br />
+
 A continuación se muestra su gráfica FFt en decibelios:<br />
-![Image3](imges/Lab3/FFT_Biceps_1.png) <br />
-Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 1 segundo. <br /> ![Image4](imges/Lab3/Señal_Biceps_2.png)
+![Image3](imges/Lab3/FFT_Biceps_1.png) <br /><br />
+
 Esta gráfica representa la extensión del brazo, la cual tuvo una duración de 5 segundos <br />
+![Image4](imges/Lab3/Señal_Biceps_2.png)<br /><br />
 A continuación se muestra su gráfica FFt en decibelios:<br />
-![Image3](imges/Lab3/FFT_Biceps_2.png) <br />
+![Image3](imges/Lab3/FFT_Biceps_2.png) <br /> <br />
 
 JUSTIFICAR RUIDO POR CADENA METÁLICA (3)  <br />
 <p class="text-justify">
