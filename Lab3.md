@@ -9,10 +9,11 @@
 - [Referencias](#Referencias)
 <p class="text-justify">
   
-##Objetivos:
+## Objetivos:
   - Adquirir señales biomédicas de EMG y ECG. <br />
   - Hacer una correcta configuración de BiTalino. <br />
   - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution. <br />
+  
 ## BITalino:
 BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] <br />
 Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6. <br />
