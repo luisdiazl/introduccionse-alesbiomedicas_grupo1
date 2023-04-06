@@ -26,10 +26,10 @@ En la segunda medición, el brazo realiza una flexión de forma gradual y con un
 - ### Archivo de datos de señal (pon en repositorio)
 - ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) <br />
 En este presente trabajo se presenterá las gráficas de los datos obtenidos durante la experiencia del laboratorio del día de hoy.
-Como se mencionón anteriormente, la primera señal medida fue la del músculo del bíceps.
+Como se mencionón anteriormente, la primera señal medida fue la del músculo del bíceps. En esta primera imagen se puede observar la gráfica completa medida en nuestro compañero, la cual tiene una duración de aproximadamente 600 segundos, por tal motivo hay algunos valores que se encuentran superior a 1000 Hz (Frecuencia de sampleo); sin embargo, estas mediadas son productos de movimeintos ajenos a la experiencia, por tal motivo no se toma en cuenta. <br />
 ![Image1](imges/Lab3/Imagen_1.png) <br />
 
-En esta primera imagen se puede observar la gráfica completa medida en nuestro compañer0, la cual tiene una duración de aproximadamente 600 segundos, por tal motivo hay algunos valores que se encuentran superior a 1000 Hz (Frecuencia de sampleo); sin embargo, estas mediadas son productos de movimeintos ajenos a la experiencia, por tal motivo no se toma en cuenta. <br />
+
 Se presenta las gráficas de extensión, con una fuerza en contra del movimiento realizado Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 1 segundo:<br />
 ![Image2](imges/Lab3/Señal_Biceps_1.png) <br /><br />
 
