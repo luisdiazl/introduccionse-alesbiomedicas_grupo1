@@ -19,11 +19,13 @@ Descripción de sus componentes y conexiones
 - Resumen y explicación de señal (2) <br />
 Como primer ejercicio, se realizó una medición de EMG en el músculo bíceps braquial del miembro superior izquierdo. Se realizaron 3 tipos de mediciones: Brazo en reposo, brazo en movimiento de flexión y brazo en movimiento de extensión. <br />
 En la primera medición, el brazo permaneció en reposo encima de una mesa con la finalidad de que los músculos del usuario estén relajados. Esto se representa como un señal constante y pequeña en la gráfica obtenida que viene a ser ruido ya que no hay una actividad eléctrica presente en el músculo.
+
 - ### Archivo de datos de señal (pon en repositorio)
 - ### Ploteo de señal en Python (una breve descripción de de que se ve en la señal) <br />
 En este presente trabajo se presenterá las gráficas de los datos obtenidos durante la experiencia del laboratorio del día de hoy.
 Como se mencionón anteriormente, la primera señal medida fue la del músuculo del bíceps.
 [INSERTAR IMAGEN] <br />
+
 En esta primera imagen se puede observar la gráfica completa medida en nuestro compañer, la cual tiene una duración de aproximadamente 600 segundos, por tal motivo hay algunos valores que se encuentran superior a 1000 Hz (Frecuencia de sampleo); sin embargo, estas mediadas son productos de movimeintos ajenos a la experiencia, por tal motivo no se toma en cuenta. <br />
 Se presenta las gráficas de extensión y flexión, con una fuerza en contyra del movimiento realizado: [INSERTAR IMAGEN] <br />
 Esta es la gráfica de la flexión del brazo, la cual tuvo una duración de 1 segundo. [INSERTAR IMAGEN] <br />
