@@ -6,6 +6,7 @@
 - [BITalino (Conceptos)](#BITalino-(Conceptos))
 - [Ejercicio 1 Músculo Biceps](#Ejercicio-1-Músculo-Biceps)
 - [Ejercicio 2 Músculo](#Ejercicio-2-Músculo)
+- [Referencias](#Referencias)
 <p class="text-justify">
   
 ## Objetivos del laboratorio:
@@ -79,3 +80,8 @@ Ahora se muestra su gráfica FFT en decibelios:<br />
 JUSTIFICAR VA A HABER CIERTO ALGO POR TENER VELLOS EN LA PIERNA: Como ya hemos mencionado previamente, BITalino es un dispositivo compuesto por varios módulos individuales, entre los cuales se encuentra el EMG. Al analizar la señal captada, se ha detectado la presencia de ruido en la misma, lo cual puede deberse a diversos factores, tales como el ruido ambiental y las condiciones de preparación de la piel del sujeto. En este caso en particular, es importante destacar que el participante presentaba una cantidad significativa de vello en la pierna, lo que probablemente haya sido la causa del ruido observado en la señal, en contraposición con la medición realizada en el brazo, el cual no contaba con vello.
 
 </p>
+
+## Referencias
+[1]
+[2]
+[3] aca Giancarlo
