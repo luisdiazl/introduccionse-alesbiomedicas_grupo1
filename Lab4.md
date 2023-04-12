@@ -1,4 +1,4 @@
-## LABORATORIO 4
+# LABORATORIO 4
 ------------------------------------------------
 
 ## Tabla de contenidos:
@@ -9,10 +9,10 @@
 5. [BiTalino](#Bitalino)
 6. [Metodología](#Metodología)
 7. [ECG (En reposo)](#ECG-(En-reposo))
-  ● Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
-  ● Ploteo de la señal en OpenSignals
-  ● Resumen y explicación de la señal ploteada. 
-  ● Ploteo de la señal en Python. 
+  ● Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada <br />
+  ● Ploteo de la señal en OpenSignals <br />
+  ● Resumen y explicación de la señal ploteada <br />
+  ● Ploteo de la señal en Python <br /> 
 9. [ECG (Contiene la respiración)](#ECG-(Contiene-la-respiración))
 10. [ECG (Tras actividad física)](#ECG-(Tras-actividad-física))
 11. [Conclusiones](#Conclusiones)
@@ -41,9 +41,9 @@
 ## BiTalino: <br />
 ## Metodología: <br />
 ## ECG (En reposo): <br />
-  # Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
-  # Ploteo de la señal en OpenSignals
-  # Resumen y explicación de la señal ploteada. 
-  # Ploteo de la señal en Python. 
+  ## Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
+  ## Ploteo de la señal en OpenSignals
+  ## Resumen y explicación de la señal ploteada
+  ## Ploteo de la señal en Python
 ## Conclusiones: <br />
 ## Bibliografía: <br />
