@@ -34,6 +34,16 @@
 | -              | Laptop o PC      |     1    |
 
 ## ¿Qué es ECG? <br />
+El electrocardiograma (ECG) es un examen no invasivo en el que se registra la actividad eléctrica del corazón debido a los potenciales de acción generados a lo largo de un pulso. Es una herramienta ampliamente usada para el monitoreo y diagnóstico clínico de alguna enfermedad cardiovascular [1]. Esto se realiza colocando unos electrodos al paciente que irán conectados a un dispositivo encargado de mostrar en pantalla el valor del pulso cardiaco del paciente, así como su gráfica que muestra su comportamiento (Figura 1).
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/631e1b445f34188d7eeaa96be649867731d8a29c/imges/Lab4/electrocardiograma.jpg" width="100%" height="100%">
+</p> 
+
+La gráfica de ECG es la señal recogida de cada latido a lo largo del tiempo. El patrón básico se divide en distintas ondas y complejos. La primera onda es la P, que corresponde a la despolarización auricular, sigue el intervalo PR que abarca entre el inicio de la onda P y el complejo QRS. Luego sigue el complejo QRS que abarca la despolarización ventricular y la repolarización auricular, el intervalo ST y finalmente la onda T que representa la repolarización ventricular (Figura 2) [2].
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/631e1b445f34188d7eeaa96be649867731d8a29c/imges/Lab4/grafica_ecg.jpg" width="100%" height="100%">
+</p> 
+
 ## BiTalino <br />
 BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] 
 
