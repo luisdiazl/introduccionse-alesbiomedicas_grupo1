@@ -39,7 +39,7 @@ El electrocardiograma (ECG) es un examen no invasivo en el que se registra la ac
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/631e1b445f34188d7eeaa96be649867731d8a29c/imges/Lab4/electrocardiograma.jpg" width="40%" height="40%">
 </p> 
 <p align="center">
-  Figura 1. Uso del electrocardiograma
+  Figura 1. Uso del electrocardiograma[1]
 </p> 
 
 La gráfica de ECG es la señal recogida de cada latido a lo largo del tiempo. El patrón básico se divide en distintas ondas y complejos. La primera onda es la P, que corresponde a la despolarización auricular, sigue el intervalo PR que abarca entre el inicio de la onda P y el complejo QRS. Luego sigue el complejo QRS que abarca la despolarización ventricular y la repolarización auricular, el intervalo ST y finalmente la onda T que representa la repolarización ventricular (Figura 2) [2].
@@ -47,7 +47,7 @@ La gráfica de ECG es la señal recogida de cada latido a lo largo del tiempo. E
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/631e1b445f34188d7eeaa96be649867731d8a29c/imges/Lab4/grafica_ecg.jpg" width="40%" height="40%">
 </p> 
 <p align="center">
-  Figura 2. Gráfica ECG
+  Figura 2. Gráfica ECG[2]
 </p> 
 
 ## BiTalino <br />
@@ -100,6 +100,11 @@ Tras la adquisición de los datos, se llevó a cabo su procesamiento, lo que per
 
 Por otra parte, al analizar la gráfica FFT, se identifican picos en las frecuencias de 0 Hz, 60 Hz y 120 Hz. Sin embargo, se aprecia que estos están en constante oscilación en todo momento.
 
+### Archivos
+
+- [Datos obtenidos de la señal]
+- [Notebook de ploteo en python]
+
 ## ECG (Contiene la respiración) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
 https://user-images.githubusercontent.com/128627851/231618205-96b098d9-fb4b-4c45-b358-3ea908cac398.mp4
@@ -120,6 +125,11 @@ Tras la realización de la segunda experiencia, se procedió a la obtención de 
 
 En cuanto al análisis de la gráfica FFT, se identificó la presencia de picos notorios en 0 Hz, 60 Hz y 120 Hz, lo cual coincide con las frecuencias detectadas en la experiencia anterior.
 
+### Archivos
+
+- [Datos obtenidos de la señal]
+- [Notebook de ploteo en python]
+
 ## ECG (Tras activida8d física) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
 https://user-images.githubusercontent.com/128627851/231618268-c4b7d6ac-de9e-43c5-9e7e-06375430ce43.mp4
@@ -130,7 +140,7 @@ https://user-images.githubusercontent.com/128627851/231618268-c4b7d6ac-de9e-43c5
 </p> 
 
   ### Resumen y explicación de la señal ploteada
-  
+  Se procedió a captar la señal con el BITalino, teniendo en cuenta las anteriores fuentes de ruido comentadas anteriormente, se hizo lo necesario para evadirlo de cierta manera. Pero la señal aún poseía algo de ruido, se pudo observar que su frecuencia cardiaca aumentaba a simple vista, de igual manera se pudo obtener que en 5 segundos existen 12  “complejos QRS” por lo que en un minuto son 144 latidos. Esto se encuentra dentro del rango de frecuencia cardiaca para el entrenamiento aeróbico que es 123 a 184 pulsaciones por minuto [12].
   ### Ploteo de la señal en Python 
   
   <p align="center">
@@ -141,6 +151,11 @@ Después de llevar a cabo la última experiencia, la cual implicó la medición 
 A partir de la gráfica de la señal completa, se pudo identificar la presencia de 72 pulsaciones por minuto, lo que representa casi el doble de la frecuencia observada en las experiencias previas. Es importante destacar que la amplitud de la señal se encuentra en torno a los 360 mV, con un valor máximo de 770 mV y un valor mínimo de 310 mV. En relación a la gráfica del intervalo de la señal, se observa un mayor número de pulsaciones debido a que el tiempo de diástole es menor, lo que genera un mayor número de picos (pulsaciones).
 
 Por último, en la gráfica FFT se detectaron picos en las mismas frecuencias que en las experiencias previas, aunque con una magnitud menor. Asimismo, se aprecian picos negativos en frecuencias como 70 Hz o 118 Hz.
+
+### Archivos
+
+- [Datos obtenidos de la señal]
+- [Notebook de ploteo en python]
 
 ## Conclusiones <br />
 En conclusión, los objetivos de adquirir señales biomédicas de ECG, hacer una correcta configuración del BiTalino y extraer la información de las señales ECG del software OpenSignals (r)evolution son fundamentales para obtener datos precisos y confiables en el análisis de las señales ECG. La adquisición adecuada de señales ECG mediante el uso de dispositivos como BiTalino y el uso del software adecuado como OpenSignals (r)evolution permiten a los investigadores y profesionales de la salud obtener información valiosa y precisa para el diagnóstico y tratamiento de enfermedades cardiovasculares. Además, una correcta configuración de los dispositivos de adquisición de señales, garantiza la calidad y la integridad de los datos, lo que es esencial para realizar análisis precisos y confiables. De lo contrario, se pueden obtener señales con mucho ruido debido a diferentes factores como la cercanía de dispositivo tecnologicos, metálicos en el participante.
