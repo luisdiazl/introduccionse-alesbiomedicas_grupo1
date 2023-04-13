@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2
   ### Ploteo de la señal en OpenSignals
   
   <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/32bbaaea36003405c8a650fdeb2fe89687367cdb/imges/Lab4/opensigreposo.png" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/32bbaaea36003405c8a650fdeb2fe89687367cdb/imges/Lab4/opensigreposo.png" width="80%" height="80%">
 </p> 
 
   ### Resumen y explicación de la señal ploteada
@@ -62,24 +62,25 @@ https://user-images.githubusercontent.com/128627851/231618205-96b098d9-fb4b-4c45
   ### Ploteo de la señal en OpenSignals
   
   <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/32bbaaea36003405c8a650fdeb2fe89687367cdb/imges/Lab4/opensigrespiracion.png" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/32bbaaea36003405c8a650fdeb2fe89687367cdb/imges/Lab4/opensigrespiracion.png" width="80%" height="80%">
 </p> 
 
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python
   
-## ECG (Tras actividad física) <br />
+## ECG (Tras activida8d física) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
 https://user-images.githubusercontent.com/128627851/231618268-c4b7d6ac-de9e-43c5-9e7e-06375430ce43.mp4
   ### Ploteo de la señal en OpenSignals
   
   <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/32bbaaea36003405c8a650fdeb2fe89687367cdb/imges/Lab4/opensigejercicio.png" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/32bbaaea36003405c8a650fdeb2fe89687367cdb/imges/Lab4/opensigejercicio.png" width="80%" height="80%">
 </p> 
 
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python 
   
 ## Conclusiones <br />
-- En conclusión, los objetivos de adquirir señales biomédicas de ECG, hacer una correcta configuración del BiTalino y extraer la información de las señales ECG del software OpenSignals (r)evolution son fundamentales para obtener datos precisos y confiables en el análisis de las señales ECG. La adquisición adecuada de señales ECG mediante el uso de dispositivos como BiTalino y el uso del software adecuado como OpenSignals (r)evolution permiten a los investigadores y profesionales de la salud obtener información valiosa y precisa para el diagnóstico y tratamiento de enfermedades cardiovasculares. Además, una correcta configuración de los dispositivos de adquisición de señales, garantiza la calidad y la integridad de los datos, lo que es esencial para realizar análisis precisos y confiables. De lo contrario, se pueden obtener señales con mucho ruido debido a diferentes factores como la cercanía de dispositivo tecnologgios ......
+En conclusión, los objetivos de adquirir señales biomédicas de ECG, hacer una correcta configuración del BiTalino y extraer la información de las señales ECG del software OpenSignals (r)evolution son fundamentales para obtener datos precisos y confiables en el análisis de las señales ECG. La adquisición adecuada de señales ECG mediante el uso de dispositivos como BiTalino y el uso del software adecuado como OpenSignals (r)evolution permiten a los investigadores y profesionales de la salud obtener información valiosa y precisa para el diagnóstico y tratamiento de enfermedades cardiovasculares. Además, una correcta configuración de los dispositivos de adquisición de señales, garantiza la calidad y la integridad de los datos, lo que es esencial para realizar análisis precisos y confiables. De lo contrario, se pueden obtener señales con mucho ruido debido a diferentes factores como la cercanía de dispositivo tecnologicos, metálicos en el participante(mejorar).
+
 ## Bibliografía <br />
