@@ -2,29 +2,29 @@
 ------------------------------------------------
 
 # Tabla de contenidos:
-1. [Participantes](#Participantes)
-2. [Öbjetivos](#Objetivos)
-3. [Materiales y equipos](#Materiales-y-equipos)
-4. [¿Qué es ECG?](#¿Qué-es-ECG?)
-5. [BiTalino](#Bitalino)
-6. [Metodología](#Metodología)
-7. [ECG (En reposo)](#ECG-(En-reposo))<br /> 
+- [Participantes](#Participantes)
+- [Öbjetivos](#Objetivos)
+- [Materiales y equipos](#Materiales-y-equipos)
+- [¿Qué es ECG?](#¿Qué-es-ECG?)
+- [BiTalino](#Bitalino)
+- [Metodología](#Metodología)
+- [ECG (En reposo)](#ECG-(En-reposo))<br /> 
     [Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos cuerpo y señal ploteada](#Video-de-señal-en-silencio-eléctrico-en-reposo,-que-se-muestre-las-conexiones-electrodos-cuerpo-y-señal-ploteada)<br />
     [Ploteo de la señal en OpenSignals](#Ploteo-de-la-señal-en-OpenSignals) <br />
     [Resumen y explicación de la señal ploteada](#Resumen-y-explicación-de-la-señal-ploteada) <br />
     [Ploteo de la señal en Python](#Ploteo-de-la-señal-en-Python) <br /> 
-8. [ECG (Contiene la respiración)](#ECG-(Contiene-la-respiración))<br />
+- [ECG (Contiene la respiración)](#ECG-(Contiene-la-respiración))<br />
     [Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos cuerpo y señal ploteada](#Video-de-señal-en-silencio-eléctrico-en-reposo,-que-se-muestre-las-conexiones-electrodos-cuerpo-y-señal-ploteada) <br />
     [Ploteo de la señal en OpenSignals](#Ploteo-de-la-señal-en-OpenSignals) <br />
     [Resumen y explicación de la señal ploteada](#Resumen-y-explicación-de-la-señal-ploteada) <br />
     [Ploteo de la señal en Python](#Ploteo-de-la-señal-en-Python) <br /> 
-9. [ECG (Tras actividad física)](#ECG-(Tras-actividad-física))<br />
+- [ECG (Tras actividad física)](#ECG-(Tras-actividad-física))<br />
     [Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos cuerpo y señal ploteada](#Video-de-señal-en-silencio-eléctrico-en-reposo,-que-se-muestre-las-conexiones-electrodos-cuerpo-y-señal-ploteada) <br />
     [Ploteo de la señal en OpenSignals](#Ploteo-de-la-señal-en-OpenSignals) <br />
     [Resumen y explicación de la señal ploteada](#Resumen-y-explicación-de-la-señal-ploteada) <br />
     [Ploteo de la señal en Python](#Ploteo-de-la-señal-en-Python) <br /> 
-10. [Conclusiones](#Conclusiones)
-11. [Bibliografía](#Bibliografía)
+- [Conclusiones](#Conclusiones)
+- [Bibliografía](#Bibliografía)
 
 ## Participantes: <br />
 - Luis Daniel Jesús Diaz Leguizamon (colaborador) - luis.diaz.l@upch.pe <br />
