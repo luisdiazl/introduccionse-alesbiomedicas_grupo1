@@ -46,7 +46,7 @@ Como se observa en la imagen, los sensores que lo componen consta de electromiog
 ## Metodología <br />
 ## ECG (En reposo) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
-<video src="https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2-ad8b-5f3aa96515f5.mp4" width="50%" height="50%">
+https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2-ad8b-5f3aa96515f5.mp4
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python
