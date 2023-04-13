@@ -49,25 +49,22 @@
 ## BiTalino <br />
 ## Metodología <br />
 ## ECG (En reposo) <br />
-------------
   ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python
   
-## ECG (Contiene la respiración): <br />
-------------
+## ECG (Contiene la respiración) <br />
   ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python
   
-## ECG (Tras actividad física): <br />
-------------
+## ECG (Tras actividad física) <br />
   ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python 
   
-## Conclusiones: <br />
-## Bibliografía: <br />
+## Conclusiones <br />
+## Bibliografía <br />
