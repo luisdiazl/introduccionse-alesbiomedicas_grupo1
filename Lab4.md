@@ -163,10 +163,12 @@ Para la captura de señal ECG al realizar ejercicio físico, se requirió que la
 Se realizó este ejercicio debido a que un estudio demuestra que un protocolo que incluía burpees indujo aumentos similares en la frecuencia cardíaca y una calificación más baja de esfuerzo percibido en comparación a el entrenamiento de intervalos de sprint [16].
 El protocolo fue realizar burpees de dos series de 40 burpees cada uno. Este ejercicio se logró hacer en un minuto y medio y un minuto con diez segundos para cada serie respectivamente.
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/653b956bd5c3e80ba1443d7df9402832d1b14332/imges/Lab4/ejerciciow.png" width="80%" height="80%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/653b956bd5c3e80ba1443d7df9402832d1b14332/imges/Lab4/ejerciciow.png" width="50%" height="50%">
 </p> 
 
-
+<p align="center">
+  Figura 5. Ejercicio Burpees 
+</p> 
 #### Archivos
 
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218111/Ejercicio.30segundos.txt)
