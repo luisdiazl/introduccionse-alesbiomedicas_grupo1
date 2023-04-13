@@ -99,10 +99,15 @@ https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2
 Tras la adquisición de los datos, se llevó a cabo su procesamiento, lo que permitió obtener las siguientes gráficas. Se observa un pico máximo de aproximadamente 700 mV tanto en la señal completa como en el intervalo de 5 segundos. Asimismo, se registraron un total de 35 picos durante la totalidad de la experimentación, lo que equivale a 35 pulsaciones. En cuanto al intervalo obtenido, se evidenció la presencia de ruido en la diástole, atribuible a diversas fuentes, tales como la utilización de metales o la proximidad a enchufes eléctricos. Cabe destacar que el pico mínimo de la diástole fue de alrededor de 380 mV obteniendo una amplitud de 320 mV.
 
 Por otra parte, al analizar la gráfica FFT, se identifican picos en las frecuencias de 0 Hz, 60 Hz y 120 Hz. Sin embargo, se aprecia que estos están en constante oscilación en todo momento.
+#### Observaciones
+De la señal ECG en estado de reposo se puede observar que para 5 segundos existen 6  “complejos QRS” por lo que en un minuto son 72 latidos. Esto se encuentra dentro del rango de frecuencia cardiaca en reposo que es de 60 a 100 latidos por segundo [10].
+De la señal se puede observar que posee mucho ruido en los intervalos “PQ” y “ST”, en dondes la señal se ve con muchos abruptos en donde esto picos de ruidos interfieren con la onda característica del ECG, específicamente las ondas “T” y “U” se pierden. Por otro lado “la onda P” se encuentra con una magnitud mayor que se puede diferenciar del ruido.  Por lo que la información de Despolarización tanto auricular como ventricular producen un cambio que se puede diferenciar en el ECG, a diferencia de la repolarización de ventrículos y el sistema Purkinje que por ser un potencial de menor magnitud y la velocidad en que se genera repolariza, no se puede distinguir con el ruido.
+Experimentalmente se pudo notar que se amplificaba con los movimientos corporales, musculares y de respiración, siendo los ruidos por artefactos más característicos [11]. Este tipo de artefactos podían ser ciertamente controlados, pero de igual manera se presenta el ruido. En un principio, la persona que se estaba monitorizando tenía elementos metálicos en su vestimenta, por lo que este otro artefacto tuvo un grado de interferencia en la señal ECG que pudo ser controlada de cierta manera [12].
+Existió una tercera fuente de ruido durante la prueba, consiste en los aparatos electrónicos conectados a la fuente de alimentación de corriente alterna, este ruido característico de 60 Hz, se hacía evidente cuando estaba cerca de laptop o tablet cerca del voluntario [13].
 
-### Archivos
+#### Archivos
 
-- [Datos obtenidos de la señal]
+- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218129/Reposo1.txt)
 - [Notebook de ploteo en python]
 
 ## ECG (Contiene la respiración) <br />
@@ -115,7 +120,8 @@ https://user-images.githubusercontent.com/128627851/231618205-96b098d9-fb4b-4c45
 </p> 
 
   ### Resumen y explicación de la señal ploteada
-La captación de la señal ECG luego de inhalaciones profundas y periodos de pausas en la respiración sirve para comparar el efecto respiratorio ante la señal detectada. Teóricamente, la respiración profunda en general afecta el sistema cardiaco, en parte por la cercanía entre los órganos controladores (corazón y pulmones) [ ]. En nuestro caso experimental, se incrementó notablemente la cantidad de ruido en la señal. Sin embargo, no hubo cambios notoriamente mayores en la frecuencia de cada onda. El incremento en la cantidad de ruido potencialmente provenga de mayores movimientos corporales durante la inhalación y exhalación. De la misma manera, la FFT nos ayuda a comparar las señales en el dominio de la frecuencia.
+La captación de la señal ECG luego de inhalaciones profundas y periodos de pausas en la respiración sirve para comparar el efecto respiratorio ante la señal detectada. Teóricamente, la respiración profunda en general afecta el sistema cardiaco, en parte por la cercanía entre los órganos controladores (corazón y pulmones) [14]. En nuestro caso experimental, se incrementó notablemente la cantidad de ruido en la señal. Sin embargo, no hubo cambios notoriamente mayores en la frecuencia de cada onda. El incremento en la cantidad de ruido potencialmente provenga de mayores movimientos corporales durante la inhalación y exhalación. De la misma manera, la FFT nos ayuda a comparar las señales en el dominio de la frecuencia.
+
   ### Ploteo de la señal en Python
   
   <p align="center">
@@ -125,12 +131,12 @@ Tras la realización de la segunda experiencia, se procedió a la obtención de 
 
 En cuanto al análisis de la gráfica FFT, se identificó la presencia de picos notorios en 0 Hz, 60 Hz y 120 Hz, lo cual coincide con las frecuencias detectadas en la experiencia anterior.
 
-### Archivos
+#### Archivos
 
-- [Datos obtenidos de la señal]
+- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218102/Aguantar10seg_1.txt)
 - [Notebook de ploteo en python]
 
-## ECG (Tras activida8d física) <br />
+## ECG (Tras activida8d física de 4 minutos) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
 https://user-images.githubusercontent.com/128627851/231618268-c4b7d6ac-de9e-43c5-9e7e-06375430ce43.mp4
   ### Ploteo de la señal en OpenSignals
@@ -152,12 +158,51 @@ A partir de la gráfica de la señal completa, se pudo identificar la presencia 
 
 Por último, en la gráfica FFT se detectaron picos en las mismas frecuencias que en las experiencias previas, aunque con una magnitud menor. Asimismo, se aprecian picos negativos en frecuencias como 70 Hz o 118 Hz.
 
-### Archivos
+### OBservaciones
+Para la captura de señal ECG al realizar ejercicio físico, se requirió que la persona realicé el ejercicio de “Burpees” es un ejercicio que mide la resistencia anaeróbica, consiste en realizar una flexión de pecho y posteriormente se realiza un salto vertical elevando las manos [15]
+Se realizó este ejercicio debido a que un estudio demuestra que un protocolo que incluía burpees indujo aumentos similares en la frecuencia cardíaca y una calificación más baja de esfuerzo percibido en comparación a el entrenamiento de intervalos de sprint [16].
+El protocolo fue realizar burpees de dos series de 40 burpees cada uno. Este ejercicio se logró hacer en un minuto y medio y un minuto con diez segundos para cada serie respectivamente.
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/653b956bd5c3e80ba1443d7df9402832d1b14332/imges/Lab4/ejerciciow.png" width="80%" height="80%">
+</p> 
 
-- [Datos obtenidos de la señal]
+
+#### Archivos
+
+- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218111/Ejercicio.30segundos.txt)
 - [Notebook de ploteo en python]
 
 ## Conclusiones <br />
 En conclusión, los objetivos de adquirir señales biomédicas de ECG, hacer una correcta configuración del BiTalino y extraer la información de las señales ECG del software OpenSignals (r)evolution son fundamentales para obtener datos precisos y confiables en el análisis de las señales ECG. La adquisición adecuada de señales ECG mediante el uso de dispositivos como BiTalino y el uso del software adecuado como OpenSignals (r)evolution permiten a los investigadores y profesionales de la salud obtener información valiosa y precisa para el diagnóstico y tratamiento de enfermedades cardiovasculares. Además, una correcta configuración de los dispositivos de adquisición de señales, garantiza la calidad y la integridad de los datos, lo que es esencial para realizar análisis precisos y confiables. De lo contrario, se pueden obtener señales con mucho ruido debido a diferentes factores como la cercanía de dispositivo tecnologicos, metálicos en el participante.
 
 ## Bibliografía <br />
+[1] Breen C, Kelly G, Kernohan W. ECG interpretation skill acquisition: A review of learning, teaching and assessment [Online]. J Electrocardiol. 73:125-128. 2019. doi: 10.1016/j.jelectrocard.2019.03.010.
+
+[2] Ashley E, Niebauer J. Explicación de la cardiología. Londres: Remedica; 2004. Capítulo 3, Conquistando el ECG. Disponible en: https://www.ncbi.nlm.nih.gov/books/NBK2214/
+
+[3] D. Batista, H. Plácido da Silva, A. Fred, C. Moreira, M. Reis, and H. A. Ferreira, “Benchmarking of the BITalino biomedical toolkit against an established gold standard,” Healthcare Technology Letters, vol. 6, no. 2, pp. 32–36, Mar. 2019, doi: https://doi.org/10.1049/htl.2018.5037.
+‌
+
+[4] “Derivaciones Cardiacas, significado,” My-ekg.com, 2018. https://www.my-ekg.com/generalidades-ekg/derivaciones-cardiacas.html (accessed Apr. 12, 2023).
+
+[5] R. P. Girardeau, “Einthoven’s Triangle Unlocks 12-Lead ECG Interpretation - JEMS: EMS, Emergency Medical Services - Training, Paramedic, EMT News,” JEMS: EMS, Emergency Medical Services - Training, Paramedic, EMT News, Mar. 13, 2012. https://www.jems.com/training/einthoven-s-triangle-unlocks-12-lead-ecg/#:~:text=Lead%20I%20extends%20horizontally%20from,leg%20being%20the%20positive%20pole (accessed Apr. 12, 2023).
+
+[6] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
+
+[7] A. Němcová, L. Maršánová, R. Smisek, and M. Vitek, “Recommendations for ECG acquisition using Bitalino,” https://www.researchgate.net/. [Online]. Available: https://www.researchgate.net/publication/308984068_RECOMMENDATIONS_FOR_ECG_ACQUISITION_USING_BITALINO. [Accessed: 13-Apr-2023]. 
+
+ [8] Y. Kaolawanich, R. Thongsongsang, T. Songsangjinda, and T. Boonyasirinant, “Clinical values of resting electrocardiography in patients with known or suspected chronic coronary artery disease: A stress perfusion cardiac MRI study - BMC cardiovascular disorders,” BioMed Central, 28-Dec-2021. [Online]. Available: https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-021-02440-5. [Accessed: 12-Apr-2023]. 
+
+ [9] A. Kumar, R. Ranganatham, R. Komaragiri, and M. Kumar, “Efficient QRS complex detection algorithm based on Fast Fourier transform,” Biomedical engineering letters, 25-Oct-2018. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6431324/. [Accessed: 12-Apr-2023].
+
+[10] Kenney WL, et al. Cardiorespiratory responses to acute exercise. In: Physiology of Sport and Exercise. 6th ed. Champaign, Ill.: Human Kinetics; 2015.
+
+[11] CORREA, Carlos Adrián; BOLAÑOS, Ricardo Andrés; ESCOBAR, Antonio. Análisis de esquemas de filtrado análogo para Señales ecg. Scientia et technica, 2007, vol. 1, no 37.
+
+[12] Altuve, M., Casanova, O., Wong, S., Passariello, G., Hernandez, A., & Carrault, G. (2008). Evaluación de dos Métodos para la Segmentación del Ancho de la Onda T en el ECG. In IV Latin American Congress on Biomedical Engineering 2007, Bioengineering Solutions for Latin America Health: September 24th–28th, 2007 Margarita Island, Venezuela (pp. 1254-1258). Springer Berlin Heidelberg.
+
+[13] González, J. B., & Barrero, J. P. (2006). Implementación de filtros adaptativos en DSP aplicados al tratamiento de interferencia de 60 hz y desplazamiento de la línea de base del ECG.
+
+[14] R. Pallas-Areny, J. Colominas i Balagué, and X. Rosell, “The effect of respiration-induced heart movements on the ECG ,” https://www.researchgate.net/. [Online]. Available: https://www.researchgate.net/publication/33421650_The_effect_of_respiration-induced_heart_movements_on_the_ECG. [Accessed: 13-Apr-2023].
+
+[15] BINGLEY, S., et al. The Burpee Enigma: Literature Review. Abstracts/Journal of Science and Medicine in Sport, 2019, vol. 22, no S2, p. S75-S115.
