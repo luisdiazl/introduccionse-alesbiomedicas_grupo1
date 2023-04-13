@@ -208,3 +208,7 @@ En conclusión, los objetivos de adquirir señales biomédicas de ECG, hacer una
 [14] R. Pallas-Areny, J. Colominas i Balagué, and X. Rosell, “The effect of respiration-induced heart movements on the ECG ,” https://www.researchgate.net/. [Online]. Available: https://www.researchgate.net/publication/33421650_The_effect_of_respiration-induced_heart_movements_on_the_ECG. [Accessed: 13-Apr-2023].
 
 [15] BINGLEY, S., et al. The Burpee Enigma: Literature Review. Abstracts/Journal of Science and Medicine in Sport, 2019, vol. 22, no S2, p. S75-S115.
+
+[16] Mayr Ojeda, E., Castro, F. A. D. S., Reich, M., Astorino, T. A., & Benítez-Flores, S. (2022). Burpee Interval Training Is Associated With a More Favorable Affective Valence and Psychological Response Than Traditional High Intensity Exercise. Perceptual and Motor Skills, 129(3), 767-786.
+
+[17] «Entrenamiento aeróbico», HealthyChildren.org. https://www.healthychildren.org/Spanish/healthy-living/fitness/Paginas/Aerobic-Training.aspx (accedido 12 de abril de 2023).
