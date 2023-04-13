@@ -108,7 +108,7 @@ Existió una tercera fuente de ruido durante la prueba, consiste en los aparatos
 #### Archivos
 
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218129/Reposo1.txt)
-- [Notebook de ploteo en python]
+- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a29d152ccfffc936e5ca5f186bc7be3d2d932c49/Software/lectura_se%C3%B1al_txt.ipynb)
 
 ## ECG (Contiene la respiración) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
@@ -134,7 +134,7 @@ En cuanto al análisis de la gráfica FFT, se identificó la presencia de picos 
 #### Archivos
 
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218102/Aguantar10seg_1.txt)
-- [Notebook de ploteo en python]
+- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a29d152ccfffc936e5ca5f186bc7be3d2d932c49/Software/lectura_se%C3%B1al_txt.ipynb)
 
 ## ECG (Tras activida8d física de 4 minutos) <br />
   ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
@@ -170,7 +170,7 @@ El protocolo fue realizar burpees de dos series de 40 burpees cada uno. Este eje
 #### Archivos
 
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218111/Ejercicio.30segundos.txt)
-- [Notebook de ploteo en python]
+- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a29d152ccfffc936e5ca5f186bc7be3d2d932c49/Software/lectura_se%C3%B1al_txt.ipynb)
 
 ## Conclusiones <br />
 En conclusión, los objetivos de adquirir señales biomédicas de ECG, hacer una correcta configuración del BiTalino y extraer la información de las señales ECG del software OpenSignals (r)evolution son fundamentales para obtener datos precisos y confiables en el análisis de las señales ECG. La adquisición adecuada de señales ECG mediante el uso de dispositivos como BiTalino y el uso del software adecuado como OpenSignals (r)evolution permiten a los investigadores y profesionales de la salud obtener información valiosa y precisa para el diagnóstico y tratamiento de enfermedades cardiovasculares. Además, una correcta configuración de los dispositivos de adquisición de señales, garantiza la calidad y la integridad de los datos, lo que es esencial para realizar análisis precisos y confiables. De lo contrario, se pueden obtener señales con mucho ruido debido a diferentes factores como la cercanía de dispositivo tecnologicos, metálicos en el participante.
