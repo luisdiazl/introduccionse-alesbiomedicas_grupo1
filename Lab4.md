@@ -45,21 +45,21 @@ Como se observa en la imagen, los sensores que lo componen consta de electromiog
 
 ## Metodología <br />
 ## ECG (En reposo) <br />
-  ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
-https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2-ad8b-5f3aa96515f5.mp4
+  ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
+<video src="https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2-ad8b-5f3aa96515f5.mp4" width="50%" height="50%">
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python
   
 ## ECG (Contiene la respiración) <br />
-  ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
+  ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
 https://user-images.githubusercontent.com/128627851/231618205-96b098d9-fb4b-4c45-b358-3ea908cac398.mp4
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python
   
 ## ECG (Tras actividad física) <br />
-  ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
+  ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
 https://user-images.githubusercontent.com/128627851/231618268-c4b7d6ac-de9e-43c5-9e7e-06375430ce43.mp4
   ### Ploteo de la señal en OpenSignals
   ### Resumen y explicación de la señal ploteada
