@@ -88,8 +88,7 @@ https://user-images.githubusercontent.com/128627851/231618268-c4b7d6ac-de9e-43c5
   ### Resumen y explicación de la señal ploteada
   ### Ploteo de la señal en Python 
   
-  <p alig
-     n="center">
+  <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/5520a8b4bb46ec18034c00fee6f305c5e433701e/imges/Lab4/Ejercicios_img.png" width="80%" height="80%">
 </p> 
 
