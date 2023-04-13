@@ -38,6 +38,9 @@
 BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [][] 
 
 Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6.
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/d1ec54cfd1f2c9ab3eba0d320451eb65a0968e51/imges/Lab4/Bitalino.png" width="25%" height="25%">
+</p>
 ## Metodología <br />
 ## ECG (En reposo) <br />
   ### Video de señal en silencio eléctrico en reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada
