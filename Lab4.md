@@ -51,7 +51,7 @@ La gráfica de ECG es la señal recogida de cada latido a lo largo del tiempo. E
 </p> 
 
 ## BiTalino <br />
-BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [2]
+BITalino es un módulo "todo en uno", considerado como placa de desarrollo de adquisición de datos biomédicos de bajo costo, que permite la realización de proyectos mediante herramientas, sin necesidad de tener conocimientos electrónicos con respecto a bioseñales. [3]
 
 Como se observa en la imagen, los sensores que lo componen consta de electromiografía (EMG), encefalografía (EEG), electrocardiografía (ECG), actividad electrodérmica (EDA), acelerómetro (ACC) y luz (LUX). Estos son algunos de sus "bloques" extraíbles, junto con un microcontrolador ATMega328, el mismo que el de Arduino, con una frecuencia de muestreo configurable hasta 1000 Hz. Posee la capacidad de admitir 6 entradas de tipo analógico (4 de 10 bits, y 2 de 6 bits), 4 entradas digitales y 4 salidas digitales. Asimismo, se encuentra equipado con comunicación Bluetooth y/o Bluetooth Low Energy (BLE) y conectores UC-E6.
 
@@ -59,7 +59,7 @@ Como se observa en la imagen, los sensores que lo componen consta de electromiog
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/d1ec54cfd1f2c9ab3eba0d320451eb65a0968e51/imges/Lab4/Bitalino.png" width="90%" height="90%">
 </p> 
 <p align="center">
-  Figura 3. BiTalino [2]
+  Figura 3. BiTalino [3]
 </p> 
 
 ## Metodología <br />
@@ -90,7 +90,7 @@ https://user-images.githubusercontent.com/128627851/231618162-0a5c990a-805b-4fc2
 </p> 
 
   ### Resumen y explicación de la señal ploteada
- La señal obtenida mediante la plataforma BITalino demuestra ruido significativo; no obstante, evidencia una señal ECG con características resaltantes comunes como el intervalo QRS. La cantidad de ruido presente es potencialmente a causa de la frecuencia de muestreo (fs) de 1000 hz; no obstante, disminuir fs puede resultar en la ausencia de cambios bruscos en la señal lo cual es importante para propósitos de diagnóstico [6]. Asimismo y particularmente en este caso, el ECG en reposo es comúnmente utilizado para detectar anormalidades en el ritmo cardiaco bajo la ausencia de estrés lo cual es útil para la detección de afecciones subyacentes [7]. La presencia de ruido en la señal es detrimental para una lectura de alta precisión por no demostrar las características de las ondas en su totalidad. Por otro lado, la FFT sirve para representar la señal en el dominio de la frecuencia y aislar la señal nativa del ECG del ruido de fondo [8].
+ La señal obtenida mediante la plataforma BITalino demuestra ruido significativo; no obstante, evidencia una señal ECG con características resaltantes comunes como el intervalo QRS. La cantidad de ruido presente es potencialmente a causa de la frecuencia de muestreo (fs) de 1000 hz; no obstante, disminuir fs puede resultar en la ausencia de cambios bruscos en la señal lo cual es importante para propósitos de diagnóstico [7]. Asimismo y particularmente en este caso, el ECG en reposo es comúnmente utilizado para detectar anormalidades en el ritmo cardiaco bajo la ausencia de estrés lo cual es útil para la detección de afecciones subyacentes [8]. La presencia de ruido en la señal es detrimental para una lectura de alta precisión por no demostrar las características de las ondas en su totalidad. Por otro lado, la FFT sirve para representar la señal en el dominio de la frecuencia y aislar la señal nativa del ECG del ruido de fondo [9].
   ### Ploteo de la señal en Python
   
   <p align="center">
