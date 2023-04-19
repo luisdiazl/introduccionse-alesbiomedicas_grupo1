@@ -8,9 +8,9 @@
 - [¿Qué es ECG?](#¿Qué-es-ECG?)
 - [BiTalino](#Bitalino)
 - [Metodología](#Metodología)
-- [ECG (En reposo)](#ECG-(En-reposo))
-- [ECG (Contiene la respiración)](#ECG-(Contiene-la-respiración))
-- [ECG (Tras actividad física)](#ECG-(Tras-actividad-física))
+- []
+- 
+- 
 - [Conclusiones](#Conclusiones)
 - [Bibliografía](#Bibliografía)
 
@@ -28,9 +28,11 @@
 - Extraer la información de las señales ECG del software OpenSignals (r)evolution. <br />
 
 ## Materiales y equipos <br />
-| Modelo         | Descripción      | Cantidad |
-| ---            |     ---          |  ---     |
-| (R)EVOLUTION   | Kit BiTalino     |     1    |
+| Modelo         | Descripción       | Cantidad |
+| ---            |     ---           |  ---     |
+| (R)EVOLUTION   | Kit BiTalino      |     1    |
+| -              | Laptop o PC       |     1    |
+| ULTRACORTEX MARK IV  |             |     1    |
 | -              | Laptop o PC      |     1    |
 
 ## ¿Qué es ECG? <br />
@@ -50,37 +52,21 @@
 #### Observaciones
 
 #### Archivos
-- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218129/Reposo1.txt)
-- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a29d152ccfffc936e5ca5f186bc7be3d2d932c49/Software/lectura_se%C3%B1al_txt.ipynb)
-
-## ECG (Contiene la respiración) <br />
-  ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
-
-  ### Ploteo de la señal en OpenSignals
-
-  ### Resumen y explicación de la señal ploteada
+- [Datos obtenidos de la señal]
+- [Notebook de ploteo en python]
 
 
-  ### Ploteo de la señal en Python
 
 #### Archivos
 
-- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218102/Aguantar10seg_1.txt)
-- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a29d152ccfffc936e5ca5f186bc7be3d2d932c49/Software/lectura_se%C3%B1al_txt.ipynb)
+- [Datos obtenidos de la señal]
+- [Notebook de ploteo en python]
 
-## ECG (Tras activida8d física de 4 minutos) <br />
-  ### Video de señal en silencio eléctrico, que se muestre las conexiones electrodos-cuerpo y señal ploteada
-  ### Ploteo de la señal en OpenSignals
-
-  ### Resumen y explicación de la señal ploteada
-  ### Ploteo de la señal en Python 
-
-### OBservaciones
 
 #### Archivos
 
-- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11218111/Ejercicio.30segundos.txt)
-- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a29d152ccfffc936e5ca5f186bc7be3d2d932c49/Software/lectura_se%C3%B1al_txt.ipynb)
+- [Datos obtenidos de la señal]
+- [Notebook de ploteo en python]
 
 ## Conclusiones <br />
 
