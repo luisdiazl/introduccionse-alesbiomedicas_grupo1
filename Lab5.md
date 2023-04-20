@@ -128,7 +128,7 @@ https://user-images.githubusercontent.com/128627851/233386749-102163d4-3773-4fe3
 </p> 
 
 ### Resumen y explicación de la señal ploteada
-Como se observa en la gráficas obtenida miediante el programa BITalino, 
+Las diversas señales obtenidas a través del módulo BITalino, fueron captadas usando una frecuencia de muestreo de 1000 Hz.  Durante los primeros dos puntos de muestreo (1 y 2), se aprecia que la señal EEG adquirida se puede clasificar como señal estocástica estacionaria en ciertos intervalos, con variaciones de amplitudes pequeñas, durante la etapa de abrir/cerrar ojos. Mientras que los dos últimos puntos de muestreo (3 y 4), demuestra que la señal EEG se comporta como una señal estocástica no estacionaria. Ello puede deberse a los ejercicios mentales que el usuario tuvo que resolver, lo cual evidencia la intervención del lóbulo frontal en cuánto al pensamiento y toma de decisiones. Asimismo, se podría clasificar como señal caótica, principalmente durante el punto 4, al presentar predicciones difíciles con variaciones bruscas, con alta sensibilidad a las condiciones planteadas. [n1] 
 
 
 ### Ploteo de la señal en Python 
@@ -151,12 +151,19 @@ En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la g
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/Signal3_bitalino.jpg" width="60%" height="60%">
 </p> 
 
+En comparación con las anteriores gráficas, se muestra una señal con pico máximo que excede los 1000 mV, asimismo, con la señal de intervalo a través del tiempo, donde excede los 800 mV. Posterior a la ejecución del ejercicio de abrir y cerrar ojos, se espera que predomine la baja frecuencia y alta amplitud como en el primer caso. Sin embargo, se aprecia cierta alteración en cuanto a amplitudes, debido a que es un intento de reposo luego de realizar movimientos oculares que influyen. Existe cierto ruido, que si bien puede ser por factores ambientales, también el movimiento de ojos fue uno de los causantes. [n1] Por todo ello, en la gráfica de FFT, se observan picos a altas frecuencias, no solo por las ondas que se esperan, sino también por el ruido, el cual suele ser mayor que la señal. 
+
 #### Punto 4:
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/Signal4_bitalino.jpg" width="60%" height="60%">
 </p> 
 
+Finalmente, en esta última gráfica, se aprecia picos máximos en la señal completa que excede los 1000 mV, y en el intervalo de señal, con más de 800 mV, como fue en el caso anterior. En esta oportunidad, existen intervalos de tiempo con picos en amplitudes que se relacionan con el periodo en que se le realizó una sucesión de preguntas que el usuario tuvo que responder mentalmente. En señales EEG, se destacan las señales theta (4-8 Hz) y alfa (8-12 Hz), debido a que estas se relacionan con la actividad mental y el estado de relajación que se suprime ante una carga cognitiva. [n2] 
+
 #### Observaciones
+
+Uno de los aspectos a tomar en cuenta es que las señales obtenidas se encuentran limitadas al proceso de metodología de adquisición de estas, puesto que solo se utilizaron tres electrodos con el BITalino, y solo se consideró las posiciones FP1 y FP2, de acuerdo al sistema internacional 10-20, que corresponde al lóbulo frontal. 
+De igual manera, sería preciso acotar que las señales que se adquieren deben pasar por un proceso de filtrado (pasa banda, pasa baja, o pasa alto), o empleo y comparación de otro tipo de transformadas, como Transformada de Hilbert [n2], con el fin de poder interpretar con mayor precisión las señales que componen el EEG de la persona. 
 
 #### Archivos
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11287891/Signal_Basal_30s.txt)
