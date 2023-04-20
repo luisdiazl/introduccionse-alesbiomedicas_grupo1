@@ -9,7 +9,7 @@
 - [Metodología](#Metodología)
 - [BITalino (EEG)](#BITalino_(EEG))
 - [ULTRACORTEX MARK IV](#ULTRACORTEX_MARK_IV)
-- [BITalino (ADICIONAL)](#BITalino_(ADICIONAL))}
+- [BITalino (ADICIONAL)](#BITalino_(ADICIONAL))
 - [Conclusiones](#Conclusiones)
 - [Bibliografía](#Bibliografía)
 
@@ -144,7 +144,7 @@ En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la g
   <img src="https://user-images.githubusercontent.com/128627851/233389473-b8ba8d16-999c-49d6-b535-b8ac16c9f20f.png" width="60%" height="60%">   
 </p> 
 
-En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la gráfica completa, mientras que en la gráfica del intervalo de un tiempo, se observa un pico máximo de 800 mV aproximadamente. Para una persona que repite un ciclo de cerrar los ojos y abrirlo durante 5 segundos, se esperan observar diferentes patrones de actividad cerebral. Cuando el participante tiene los ojos abierto, se espera que la actividad cerebral debe ser predominantemente de ondas alfa, con una frecuencia de 8 a 12 Hz, especialmente en la región occipital del cerebro, ya que se espera que la persona esté en un estado de alerta relajado con los ojos abiertos. Por otro lado, cuando el participante está con los ojos cerrados, se espera que la actividad cerebral debería ser principalmente de ondas theta y delta, con una menor actividad de ondas alfa. Estas ondas más lentas indican un estado de relajación profunda y posiblemente somnolencia en la persona. Durante la transición entre ojos abiertos y cerrados, la actividad beta (12-25 Hz) y gamma (por encima de 25 Hz) puede aumentar a medida que la persona se prepara para cambiar de estado. Es por ello, que en la gráfica, se muestra que luego de esa transición, existe un pico pronunciado
+En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la gráfica completa, mientras que en la gráfica del intervalo de un tiempo, se observa un pico máximo de 800 mV aproximadamente. Para una persona que repite un ciclo de cerrar los ojos y abrirlo durante 5 segundos, se esperan observar diferentes patrones de actividad cerebral. Cuando el participante tiene los ojos abierto, se espera que la actividad cerebral debe ser predominantemente de ondas alfa, con una frecuencia de 8 a 12 Hz, especialmente en la región occipital del cerebro, ya que se espera que la persona esté en un estado de alerta relajado con los ojos abiertos. Por otro lado, cuando el participante está con los ojos cerrados, se espera que la actividad cerebral debería ser principalmente de ondas theta y delta, con una menor actividad de ondas alfa. Estas ondas más lentas indican un estado de relajación profunda y posiblemente somnolencia en la persona. Durante la transición entre ojos abiertos y cerrados, la actividad beta (12-25 Hz) y gamma (por encima de 25 Hz) puede aumentar a medida que la persona se prepara para cambiar de estado. Es por ello, que en la gráfica, se muestra que luego de esa transición, existe un pico pronunciado.
 
 #### Punto 3:
 <p align="center">
@@ -159,8 +159,9 @@ En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la g
 #### Observaciones
 
 #### Archivos
-- [Datos obtenidos de la señal]
-- [Notebook de ploteo en python]
+- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11287891/Signal_Basal_30s.txt)
+
+- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/4e073602926fa6e8fd1bb5602128a8395ac22e5b/Software/Se%C3%B1alBasal30s.ipynb)
 
 
 ## ULTRACORTEX MARK IV
@@ -198,7 +199,7 @@ https://user-images.githubusercontent.com/128627851/233271732-fe937ef3-9a47-4df1
 ### Ploteo de la señal en OpenBCI GUI
 
 <p align="center">
-  <img src="" width="60%" height="60%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c102c9d00e93c65e58657c718470ef2f945a693e/imges/Lab5/Ploteo%20en%20interfaz%20OpenBCI.png" width="60%" height="60%">
 </p> 
 <p align="center">
   Figura 11. Ploteo en interfaz OpenBCI
@@ -207,7 +208,7 @@ https://user-images.githubusercontent.com/128627851/233271732-fe937ef3-9a47-4df1
 ### Ploteo de la señal en Python
 
 <p align="center">
-  <img src="" width="60%" height="60%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c102c9d00e93c65e58657c718470ef2f945a693e/imges/Lab5/Se%C3%B1al%20Completa%20OpenBCI.png" width="60%" height="60%">
 </p> 
 
 ### Duración de la prueba durante 95 segundos por canales
@@ -285,7 +286,7 @@ En todos los canales se puede observar que es constante la amplitud hasta llegar
 
 Este error coloca los 8 canales en 0, y los otros 8 electrodos pueden captar una señal con flujo de corriente en el cuerpo, corrientes de desplazamientos en la etapa frontal del electrodo, inducción magnética causados por el electrodo. [][]
 - El cabello del participante influye como impedancia para los electrodos EEG que distorsionan y debilitan la señal. Por ello se requirió del participante que posea el cabello más corto.
-- 
+
 #### Archivos
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11280376/OpenBCI-RAW-2023-04-19_11-29-23.txt) 
 - [Notebook de ploteo en python]
@@ -335,6 +336,27 @@ https://user-images.githubusercontent.com/128627851/233280819-a993fb1c-8a2a-40f1
 https://user-images.githubusercontent.com/128627851/233281718-238365ee-7732-46fc-9a4f-ce4500efd24a.mp4
 
 ### Ploteo de la señal en OpenSIGNAL 
+#### Primer ejercicio adicional de BITalino:
+#### Imagen que muestra la actividad cerebral cuando el usuario está con los ojos cerrados
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/e1_eeg1.PNG" width="60%" height="60%">
+</p> 
+
+#### Imagen que muestra la actividad cerebral cuando al usuario le llega una fuente de luz en ambos ojos.
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/e1_eeg2.PNG" width="60%" height="60%">
+</p> 
+
+#### Segundo ejercicio adicional de BITalino:
+#### Imagen que muestra la actividad cerebral cuando el usuario está con los ojos cerrados
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/e1_eeg1.PNG" width="60%" height="60%">
+</p> 
+
+#### Imagen que muestra la actividad cerebral cuando al usuario le llega una fuente de luz en solo un ojo
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128627851/233412167-ce88d286-f272-46a5-9e13-d13ffaf55951.png" width="60%" height="60%">
+</p> 
 
 ### Resumen y explicación de la señal ploteada
 Los datos obtenidos mediante la plataforma BITalino fueron procesados y graficados usando la interfaz de Python. Se presentan 5 gráficas ploteadas para cada ejercicio realizado en el que se tiene la gráfica de la señal completa medida, la gráfica de la señal en un intervalo de tiempo que muestre el valor más alto, la gráfica de la señal en función de la frecuencia usando la transformada de Fourier, la gráfica de regresión lineal y la gráfica de regresión polinomial de Grado 2, estos dos últimos servirán para evaluar la relación entre los datos adquiridos. 
@@ -436,7 +458,7 @@ En estos dos experimentos vistos se destaca la diferencia de amplitudes en el EE
 
 #### Archivos
 
-- [Datos obtenidos de la señal]
+- [Datos obtenidos de la señal] 
 - [Notebook de ploteo en python]
 
 
