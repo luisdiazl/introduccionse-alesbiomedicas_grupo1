@@ -458,9 +458,9 @@ En estos dos experimentos vistos se destaca la diferencia de amplitudes en el EE
 
 #### Archivos
 
-- [Datos obtenidos de la señal] 
-- [Notebook de ploteo en python]
+- [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11288004/Ojos.Intermitentes.en.cada.lado_EEG.txt)
+- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a9047ccb4902413c2431f67a24c31c97c2ec2613/Software/lectura_se%C3%B1al_Test_Impedancia.ipynb)
 
-
+#### Conclusiones
 
 ## Bibliografía <br />
