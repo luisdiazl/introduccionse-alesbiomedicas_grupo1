@@ -339,18 +339,18 @@ https://user-images.githubusercontent.com/128627851/233281718-238365ee-7732-46fc
 #### Primer ejercicio adicional de BITalino:
 #### Imagen que muestra la actividad cerebral cuando el usuario está con los ojos cerrados
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/e1_eeg1.PNG" width="60%" height="60%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/148dd40a7d5557c5d570584edf3269804e3ae086/imges/Lab5/e1_eeg1.PNG" width="60%" height="60%">
 </p> 
 
 #### Imagen que muestra la actividad cerebral cuando al usuario le llega una fuente de luz en ambos ojos.
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/e1_eeg2.PNG" width="60%" height="60%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/148dd40a7d5557c5d570584edf3269804e3ae086/imges/Lab5/e1_eeg2.PNG" width="60%" height="60%">
 </p> 
 
 #### Segundo ejercicio adicional de BITalino:
 #### Imagen que muestra la actividad cerebral cuando el usuario está con los ojos cerrados
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/e1_eeg1.PNG" width="60%" height="60%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/148dd40a7d5557c5d570584edf3269804e3ae086/imges/Lab5/e1_eeg1.PNG" width="60%" height="60%">
 </p> 
 
 #### Imagen que muestra la actividad cerebral cuando al usuario le llega una fuente de luz en solo un ojo
