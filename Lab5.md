@@ -44,7 +44,7 @@ El cerebro es uno de los órganos más inmortales del ser humano. Está encargad
   Figura 1. Cerebro con vista de materia gris y blanca
 </p> 
 
-Adicionalmente, el cerebro contiene dos hemisferios, el derecho y el izquierdo, así como cuatro regiones llamadas lóbulos. El lóbulo frontal es el más grande y está encargado de la personalidad, toma de decisiones, pensamiento y el habla. El lóbulo parietal controla la ubicación espacial de la persona, la percepción de dolor y tacto y el entendimiento del lenguaje hablado. El lóbulo occipital está ubicado en la parte posterior de la cabeza y controla la vista. Finalmente, el lóbulo temporal maneja la memoria a corto plazo, percepción de ritmo musical y reconocimiento del olfato.[]
+Adicionalmente, el cerebro contiene dos hemisferios, el derecho y el izquierdo, así como cuatro regiones llamadas lóbulos. El lóbulo frontal es el más grande y está encargado de la personalidad, toma de decisiones, pensamiento y el habla. El lóbulo parietal controla la ubicación espacial de la persona, la percepción de dolor y tacto y el entendimiento del lenguaje hablado. El lóbulo occipital está ubicado en la parte posterior de la cabeza y controla la vista. Finalmente, el lóbulo temporal maneja la memoria a corto plazo, percepción de ritmo musical y reconocimiento del olfato.[1]
 
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/brain2.jpg" width="40%" height="40%">
@@ -53,7 +53,7 @@ Adicionalmente, el cerebro contiene dos hemisferios, el derecho y el izquierdo, 
   Figura 2. Los cuatro lóbulos del cerebro
 </p> 
 
-Las señales proporcionadas por el cerebro, señales EEG, son producidas por la liberación de neurotransmisores que ocasionan el cambio de voltaje a través de la membrana celular. Los campos eléctricos generados, particularmente por las neuronas piramidales, sirven para la medición de las señales dado que son lo suficientemente fuertes para atravesar los tejidos. Existen diferentes tipos de ondas presentes en un EEG. Por ejemplo, las ondas gamma que hacen presencia mientras la persona realiza tareas de concentración y recolección de problemas con una frecuencia mayor a 25 Hz. Están también las ondas beta y alfa con rangos de 12-25 Hz y 8-12 Hz respectivamente. Están encargadas de representar actividades de mente activa para las beta y reflexión o reposo para las alfa. Finalmente, están las ondas theta y delta con rangos de frecuencia de 4-8 Hz y 0-4 Hz respectivamente. Las ondas theta representan somnolencia y las ondas delta el sueño. []
+Las señales proporcionadas por el cerebro, señales EEG, son producidas por la liberación de neurotransmisores que ocasionan el cambio de voltaje a través de la membrana celular. Los campos eléctricos generados, particularmente por las neuronas piramidales, sirven para la medición de las señales dado que son lo suficientemente fuertes para atravesar los tejidos. Existen diferentes tipos de ondas presentes en un EEG. Por ejemplo, las ondas gamma que hacen presencia mientras la persona realiza tareas de concentración y recolección de problemas con una frecuencia mayor a 25 Hz. Están también las ondas beta y alfa con rangos de 12-25 Hz y 8-12 Hz respectivamente. Están encargadas de representar actividades de mente activa para las beta y reflexión o reposo para las alfa. Finalmente, están las ondas theta y delta con rangos de frecuencia de 4-8 Hz y 0-4 Hz respectivamente. Las ondas theta representan somnolencia y las ondas delta el sueño. [2]
 
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/brain4.JPG" width="40%" height="40%">
@@ -128,7 +128,7 @@ https://user-images.githubusercontent.com/128627851/233386749-102163d4-3773-4fe3
 </p> 
 
 ### Resumen y explicación de la señal ploteada
-Las diversas señales obtenidas a través del módulo BITalino, fueron captadas usando una frecuencia de muestreo de 1000 Hz.  Durante los primeros dos puntos de muestreo (1 y 2), se aprecia que la señal EEG adquirida se puede clasificar como señal estocástica estacionaria en ciertos intervalos, con variaciones de amplitudes pequeñas, durante la etapa de abrir/cerrar ojos. Mientras que los dos últimos puntos de muestreo (3 y 4), demuestra que la señal EEG se comporta como una señal estocástica no estacionaria. Ello puede deberse a los ejercicios mentales que el usuario tuvo que resolver, lo cual evidencia la intervención del lóbulo frontal en cuánto al pensamiento y toma de decisiones. Asimismo, se podría clasificar como señal caótica, principalmente durante el punto 4, al presentar predicciones difíciles con variaciones bruscas, con alta sensibilidad a las condiciones planteadas. [n1] 
+Las diversas señales obtenidas a través del módulo BITalino, fueron captadas usando una frecuencia de muestreo de 1000 Hz.  Durante los primeros dos puntos de muestreo (1 y 2), se aprecia que la señal EEG adquirida se puede clasificar como señal estocástica estacionaria en ciertos intervalos, con variaciones de amplitudes pequeñas, durante la etapa de abrir/cerrar ojos. Mientras que los dos últimos puntos de muestreo (3 y 4), demuestra que la señal EEG se comporta como una señal estocástica no estacionaria. Ello puede deberse a los ejercicios mentales que el usuario tuvo que resolver, lo cual evidencia la intervención del lóbulo frontal en cuánto al pensamiento y toma de decisiones. Asimismo, se podría clasificar como señal caótica, principalmente durante el punto 4, al presentar predicciones difíciles con variaciones bruscas, con alta sensibilidad a las condiciones planteadas. [3] 
 
 
 ### Ploteo de la señal en Python 
@@ -137,33 +137,33 @@ Las diversas señales obtenidas a través del módulo BITalino, fueron captadas 
   <img src="https://user-images.githubusercontent.com/128627851/233388733-057322a6-5a23-4214-9c61-a515a64d42c0.png" width="60%" height="60%">
 </p> 
 
-En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la gráfica completa, mientras que en la gráfica del intervalo de un tiempo, se observa un pico máximo de 700 mV aproximadamente. Para una persona que está respirando normal, sin movimiento y con los ojos cerrados, se esperan ondas EEG, donde predomina la baja frecuencia y la alta amplitud. Si es que se ejecutan las condiciones perfectamente, se debería observar una mayor actividad de ondas delta (de 0 a 4 Hz) y ondas theta (de 4 a 8 Hz) en la mayoría de las regiones del cerebro, y una menor actividad de ondas alfa (de 8 a 12 Hz) y beta (de 12 a 25 Hz) []. Estas ondas indican un estado de relajación y descanso en la persona, ya que no hay estímulos externos que afecten la actividad cerebral. Sin embargo, en este experimento no se cumplen las condicones idealmente, ya que influye el ruido externo, entre otros. Por ello, en la gráfica, se observan ondas beta (12-25 Hz).
+En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la gráfica completa, mientras que en la gráfica del intervalo de un tiempo, se observa un pico máximo de 700 mV aproximadamente. Para una persona que está respirando normal, sin movimiento y con los ojos cerrados, se esperan ondas EEG, donde predomina la baja frecuencia y la alta amplitud. Si es que se ejecutan las condiciones perfectamente, se debería observar una mayor actividad de ondas delta (de 0 a 4 Hz) y ondas theta (de 4 a 8 Hz) en la mayoría de las regiones del cerebro, y una menor actividad de ondas alfa (de 8 a 12 Hz) y beta (de 12 a 25 Hz) [4]. Estas ondas indican un estado de relajación y descanso en la persona, ya que no hay estímulos externos que afecten la actividad cerebral. Sin embargo, en este experimento no se cumplen las condicones idealmente, ya que influye el ruido externo, entre otros. Por ello, en la gráfica, se observan ondas beta (12-25 Hz).
 
 #### Punto 2:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128627851/233389473-b8ba8d16-999c-49d6-b535-b8ac16c9f20f.png" width="60%" height="60%">   
 </p> 
 
-En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la gráfica completa, mientras que en la gráfica del intervalo de un tiempo, se observa un pico máximo de 800 mV aproximadamente. Para una persona que repite un ciclo de cerrar los ojos y abrirlo durante 5 segundos, se esperan observar diferentes patrones de actividad cerebral. Cuando el participante tiene los ojos abierto, se espera que la actividad cerebral debe ser predominantemente de ondas alfa, con una frecuencia de 8 a 12 Hz, especialmente en la región occipital del cerebro, ya que se espera que la persona esté en un estado de alerta relajado con los ojos abiertos. Por otro lado, cuando el participante está con los ojos cerrados, se espera que la actividad cerebral debería ser principalmente de ondas theta y delta, con una menor actividad de ondas alfa. Estas ondas más lentas indican un estado de relajación profunda y posiblemente somnolencia en la persona. Durante la transición entre ojos abiertos y cerrados, la actividad beta (12-25 Hz) y gamma (por encima de 25 Hz) puede aumentar a medida que la persona se prepara para cambiar de estado. Es por ello, que en la gráfica, se muestra que luego de esa transición, existe un pico pronunciado.
+En las gráficas, se observa un pico máximo de apróximadamente 1000 mV en la gráfica completa, mientras que en la gráfica del intervalo de un tiempo, se observa un pico máximo de 800 mV aproximadamente. Para una persona que repite un ciclo de cerrar los ojos y abrirlo durante 5 segundos, se esperan observar diferentes patrones de actividad cerebral. Cuando el participante tiene los ojos abierto, se espera que la actividad cerebral debe ser predominantemente de ondas alfa, con una frecuencia de 8 a 12 Hz, especialmente en la región occipital del cerebro, ya que se espera que la persona esté en un estado de alerta relajado con los ojos abiertos. Por otro lado, cuando el participante está con los ojos cerrados, se espera que la actividad cerebral debería ser principalmente de ondas theta y delta, con una menor actividad de ondas alfa. Estas ondas más lentas indican un estado de relajación profunda y posiblemente somnolencia en la persona. Durante la transición entre ojos abiertos y cerrados, la actividad beta (12-25 Hz) y gamma (por encima de 25 Hz) puede aumentar a medida que la persona se prepara para cambiar de estado [5]. Es por ello, que en la gráfica, se muestra que luego de esa transición, existe un pico pronunciado.
 
 #### Punto 3:
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/Signal3_bitalino.jpg" width="60%" height="60%">
 </p> 
 
-En comparación con las anteriores gráficas, se muestra una señal con pico máximo que excede los 1000 mV, asimismo, con la señal de intervalo a través del tiempo, donde excede los 800 mV. Posterior a la ejecución del ejercicio de abrir y cerrar ojos, se espera que predomine la baja frecuencia y alta amplitud como en el primer caso. Sin embargo, se aprecia cierta alteración en cuanto a amplitudes, debido a que es un intento de reposo luego de realizar movimientos oculares que influyen. Existe cierto ruido, que si bien puede ser por factores ambientales, también el movimiento de ojos fue uno de los causantes. [n1] Por todo ello, en la gráfica de FFT, se observan picos a altas frecuencias, no solo por las ondas que se esperan, sino también por el ruido, el cual suele ser mayor que la señal. 
+En comparación con las anteriores gráficas, se muestra una señal con pico máximo que excede los 1000 mV, asimismo, con la señal de intervalo a través del tiempo, donde excede los 800 mV. Posterior a la ejecución del ejercicio de abrir y cerrar ojos, se espera que predomine la baja frecuencia y alta amplitud como en el primer caso. Sin embargo, se aprecia cierta alteración en cuanto a amplitudes, debido a que es un intento de reposo luego de realizar movimientos oculares que influyen. Existe cierto ruido, que si bien puede ser por factores ambientales, también el movimiento de ojos fue uno de los causantes. [3] Por todo ello, en la gráfica de FFT, se observan picos a altas frecuencias, no solo por las ondas que se esperan, sino también por el ruido, el cual suele ser mayor que la señal. 
 
 #### Punto 4:
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/Signal4_bitalino.jpg" width="60%" height="60%">
 </p> 
 
-Finalmente, en esta última gráfica, se aprecia picos máximos en la señal completa que excede los 1000 mV, y en el intervalo de señal, con más de 800 mV, como fue en el caso anterior. En esta oportunidad, existen intervalos de tiempo con picos en amplitudes que se relacionan con el periodo en que se le realizó una sucesión de preguntas que el usuario tuvo que responder mentalmente. En señales EEG, se destacan las señales theta (4-8 Hz) y alfa (8-12 Hz), debido a que estas se relacionan con la actividad mental y el estado de relajación que se suprime ante una carga cognitiva. [n2] 
+Finalmente, en esta última gráfica, se aprecia picos máximos en la señal completa que excede los 1000 mV, y en el intervalo de señal, con más de 800 mV, como fue en el caso anterior. En esta oportunidad, existen intervalos de tiempo con picos en amplitudes que se relacionan con el periodo en que se le realizó una sucesión de preguntas que el usuario tuvo que responder mentalmente. En señales EEG, se destacan las señales theta (4-8 Hz) y alfa (8-12 Hz), debido a que estas se relacionan con la actividad mental y el estado de relajación que se suprime ante una carga cognitiva. [6] 
 
 #### Observaciones
 
 Uno de los aspectos a tomar en cuenta es que las señales obtenidas se encuentran limitadas al proceso de metodología de adquisición de estas, puesto que solo se utilizaron tres electrodos con el BITalino, y solo se consideró las posiciones FP1 y FP2, de acuerdo al sistema internacional 10-20, que corresponde al lóbulo frontal. 
-De igual manera, sería preciso acotar que las señales que se adquieren deben pasar por un proceso de filtrado (pasa banda, pasa baja, o pasa alto), o empleo y comparación de otro tipo de transformadas, como Transformada de Hilbert [n2], con el fin de poder interpretar con mayor precisión las señales que componen el EEG de la persona. 
+De igual manera, sería preciso acotar que las señales que se adquieren deben pasar por un proceso de filtrado (pasa banda, pasa baja, o pasa alto), o empleo y comparación de otro tipo de transformadas, como Transformada de Hilbert [6], con el fin de poder interpretar con mayor precisión las señales que componen el EEG de la persona. 
 
 #### Archivos
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11287891/Signal_Basal_30s.txt)
@@ -268,12 +268,12 @@ https://user-images.githubusercontent.com/128627851/233271732-fe937ef3-9a47-4df1
 </p>
 
 ### Resumen y explicación de la señal ploteada. 
-En 7 de los 8 canales se puede observar que existe un picos pronunciados en 60 Hz, que pertenecen a los ritmos beta del EEG, que demuestran localización en regiones frontales y temporales anteriores, muestra estados de vigilia concentrado, o nerviosismo []. El canal 3 presenta un solo pulso alrededor de los 40 segundos, pero en su espectro de frecuencias no se puede observar nada.
-Un pico destacable es en el canal 2, que representa el ritmo theta, que se presenta en la meditación profunda, cuando hay acciones y procesar información interna [].
+En 7 de los 8 canales se puede observar que existe un picos pronunciados en 60 Hz, que pertenecen a los ritmos beta del EEG, que demuestran localización en regiones frontales y temporales anteriores, muestra estados de vigilia concentrado, o nerviosismo [7]. El canal 3 presenta un solo pulso alrededor de los 40 segundos, pero en su espectro de frecuencias no se puede observar nada.
+Un pico destacable es en el canal 2, que representa el ritmo theta, que se presenta en la meditación profunda, cuando hay acciones y procesar información interna [7].
 En todos los canales se puede observar que es constante la amplitud hasta llegar a los 30 segundos donde comienza a parpadear la persona y por ende cambiar la señal, indicando una actividad cerebral para ejecutar esta acción.
 
 ### Observaciones
-- De acuerdo a la toma registrada, la ubicación del casco EEG en el posicionamiento 10/20 no siempre va a ser perfecto y posee cierto margen que influye en que los datos captados posean un ruido por artefacto [].
+- De acuerdo a la toma registrada, la ubicación del casco EEG en el posicionamiento 10/20 no siempre va a ser perfecto y posee cierto margen que influye en que los datos captados posean un ruido por artefacto [8].
 
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/651dc796859eb572317c2f139a544e365b857e59/imges/Lab5/Ubicaci%C3%B3n%20de%20electrodos%20en%20maniqu%C3%AD.png" width="60%" height="60%">
@@ -291,12 +291,12 @@ En todos los canales se puede observar que es constante la amplitud hasta llegar
   Figura 13. Selección de parámetros para conexión en Interfaz OpenBCI
 </p> 
 
-Este error coloca los 8 canales en 0, y los otros 8 electrodos pueden captar una señal con flujo de corriente en el cuerpo, corrientes de desplazamientos en la etapa frontal del electrodo, inducción magnética causados por el electrodo. [][]
+Este error coloca los 8 canales en 0, y los otros 8 electrodos pueden captar una señal con flujo de corriente en el cuerpo, corrientes de desplazamientos en la etapa frontal del electrodo, inducción magnética causados por el electrodo. [9][10]
 - El cabello del participante influye como impedancia para los electrodos EEG que distorsionan y debilitan la señal. Por ello se requirió del participante que posea el cabello más corto.
 
 #### Archivos
 - [Datos obtenidos de la señal](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/files/11280376/OpenBCI-RAW-2023-04-19_11-29-23.txt) 
-- [Notebook de ploteo en python]
+- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/286618285556801c48770fff0146a2f3c4765e1c/Software/lectura_se%C3%B1al_Test_Impedancia.ipynb)
 
 ## BITalino (ADICIONAL)
 En este ejercicio se evaluó la impedancia en la señal EEG mediante 2 ejercicios que se enfocan en el análisis de los ojos. 
@@ -442,7 +442,7 @@ En esta gráfica se puede apreciar mejor el momento en el que el usuario abre un
   Figura 25. Gráfica FFT de la señal EEG
 </p>
 
-Con respecto a su gráfica de frecuencias se puede ver un pico en el valor de frecuencia de 10 Hz que corresponde a la onda alfa, cuando los ojos permanecen cerrados. Mientras que entre las frecuencias 20 y 25 Hz se puede ver un pico correspondiente a la onda beta, cuando uno de los ojos se abre para recibir el flash de un celular, indicando actividad []. 
+Con respecto a su gráfica de frecuencias se puede ver un pico en el valor de frecuencia de 10 Hz que corresponde a la onda alfa, cuando los ojos permanecen cerrados. Mientras que entre las frecuencias 20 y 25 Hz se puede ver un pico correspondiente a la onda beta, cuando uno de los ojos se abre para recibir el flash de un celular, indicando actividad [11]. 
 
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/7ee1efdf6f0e04d324ae0591b030d73d5e735597/imges/Lab5/rl2.PNG" width="60%" height="60%">
@@ -469,5 +469,27 @@ En estos dos experimentos vistos se destaca la diferencia de amplitudes en el EE
 - [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/a9047ccb4902413c2431f67a24c31c97c2ec2613/Software/lectura_se%C3%B1al_Test_Impedancia.ipynb)
 
 #### Conclusiones
+La adquisición de señales biomédicas de EEG es una técnica útil para estudiar la actividad cerebral en diferentes contextos, como la investigación médica o la evaluación del rendimiento cognitivo. Para esto, debemos hacer una correcta configuración de los dispositivos de adquisición de señales biomédicas, como BiTalino y ULTRA CORTEX MARK IV; esto crucial para obtener señales de alta calidad y precisión. Es importante seguir las instrucciones del fabricante y tener en cuenta las consideraciones técnicas y metodológicas para garantizar la validez y confiabilidad de los datos. Por otro lado, es de gran ayuda, el trabajo de programas como Opensignal u OpenBCI ya que estas nos permiten el análisis y procesamiento de las señales registradas, lo que permite la identificación de patrones de actividad, la caracterización de la respuesta cerebral a diferentes estímulos y la comparación de diferentes grupos o condiciones experimentales.
 
 ## Bibliografía <br />
+[1] “Brain anatomy and how the brain works,” Brain Anatomy and How the Brain Works | Johns Hopkins Medicine, 14-Jul-2021. [Online]. Available: https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain. [Accessed: 19-Apr-2023]. 
+
+[2] “Bitalino (r)evolution lab guide - plux biosignals.” [Online]. Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Accessed: 20-Apr-2023].
+
+[3] J. Jaiber, “Tipos de Señales y Estudio y valoración base de datos PhysioNet,” ResearchGate, May 13, 2014. https://www.researchgate.net/publication/271273649_Tipos_de_Senales_y_Estudio_y_valoracion_base_de_datos_PhysioNet (accessed Apr. 20, 2023). 
+
+[4] Www7.uc.cl, 2023. https://www7.uc.cl/sw_educ/neurociencias/html/175.html (accessed Apr. 20, 2023).
+
+[5] “INSTITUTO POLITÉCNICO NACIONAL ESCUELA SUPERIOR DE INGENIERÍA MECÁNICA Y ELÉCTRICA UNIDAD ZACATENCO SECCIÓN DE ESTUDIOS DE POSGRADO E INVESTIGACIÓN.” Available: https://tesis.ipn.mx/bitstream/handle/123456789/17791/Adquisicion%20de%20senales%20EEG%20con%20bioelectrodos%20no-invasivos%20de%20alta%20sensibilidad.pdf?sequence=1&isAllowed=y
+
+[6] C. Retamal, “Estudio del comportamiento de la carga cognitiva de usuarios que navegan en un sitio Web,” Uchile.cl, 2017, doi: https://repositorio.uchile.cl/handle/2250/144521.
+
+[7] Torres-García, A.A., Reyes-García, C.A., Villaseñor-Pineda, L., & Ramírez-Cortés, J.M.. (2013). Análisis de señales electroencefalográficas para la clasificación de habla imaginada. Revista mexicana de ingeniería biomédica, 34(1), 23-39. Recuperado en 20 de abril de 2023, de http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-95322013000100002&lng=es&tlng=es.
+
+[8] S. Mujica. "Adquisición de señales EEG con bioelectrodos no-invasivos de alta sensibilidad" [Online]. Tesis de Maestría. Instituto Politécnico Nacional. Ciudad de México, México, 2019. Disponible en: https://tesis.ipn.mx/bitstream/handle/123456789/17791/Adquisicion%20de%20senales%20EEG%20con%20bioelectrodos%20no-invasivos%20de%20alta%20sensibilidad.pdf?sequence=1&isAllowed=y.
+
+[9] A.C.Metting van Rijn, A.Peper and C.A.Grimbergen, "High-quiality recording of bioelectric events. Part I Interference reduction, theory and practice", Meda & Biol. Eng. & Comput, 2010
+
+[10] KO Deum Kim, Yong Kyu Lim and Kwang Suk Park, "Common Mode Noise Cancellation for Electrically Non-Contact ECG Measurements System on a Chair" Engineering in Medicine and Biology 27th Annual Conference, Shanghai, China, 2009.
+
+[11] Plux Wireless Biosignals, "Plux EEG Home User Guide" [Online]. 2022. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf.
