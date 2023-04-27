@@ -1,1 +1,1 @@
-Del curso
+# llenar respecto al curso
