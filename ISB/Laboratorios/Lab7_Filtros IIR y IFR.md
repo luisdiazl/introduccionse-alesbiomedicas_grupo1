@@ -58,6 +58,8 @@ En el caso del diseño de filtros IIR, se permite crear un filtro de cualquier o
 </p> 
 
 ## Metodología
+A continuación, se realizarán dos espacios de trabajo o “notebooks” por separado, con el fin de comparar resultados, uno siendo por filtros con parámetros proporcionados en la guía, y otro diseñado por los integrantes del equipo. 
+
 Primero se carga el dataset de ECG obtenido en anteriores laboratorios, estos serán almacenados en un diccionario para su posterior uso.
 Luego se muestra la señal recolectada cruda mediante una gráfica en el que se observa las 3 fases que se evaluarán. La fase de estado basal, la fase de aguantar la respiración y la fase de post-ejercicio.
 
@@ -102,7 +104,7 @@ A continuación se muestra una toma de la señal ecg que representará cada esta
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab%207/bloque4f.PNG" width="100%" height="100%">
 </p>
 
-Ahora se muestra estas señales en su dominio de frecuencia, al solo usar una señal se muestra un único pico de frecuencia y posterior a ello un pequeño pico.
+Ahora se muestra estas señales en su dominio de frecuencia, se muestra un pico alto de frecuencia y posterior a ello un pequeño pico.
 
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab%207/bloque5.PNG" width="100%" height="100%">
@@ -188,6 +190,8 @@ De igual manera, se obtiene un suavizado a lo largo de la señal, pasando por lo
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab%207/bloque9f.PNG" width="100%" height="100%">
 </p>
 
+Como ya se mencionó anteriormente, se diseñaron filtros, estos se pueden ver [aquí](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/Software/Copia_de_Filtros.ipynb) con el fin de evaluar el mejor. 
+
 ## Tabla resumen  <br />
 
 | Campo |Señal Cruda|Filtro IIR | Filtro FIR|
@@ -196,6 +200,9 @@ De igual manera, se obtiene un suavizado a lo largo de la señal, pasando por lo
 |  Respiración | <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/Cruda_Respiracion.png" width="100%" height="100%">|<img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/IIR_Respiracion.png" width="100%" height="100%">  |  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/FIR_Respiracion.png" width="100%" height="100%"> |
 | Post-Ejercicio | <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/Cruda_postEjercicio.png" width="100%" height="100%"> |      <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/IIR_posEjercicio.png" width="100%" height="100%">   |      <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/FIR_postEjercicio.png" width="100%" height="100%">    |
 
+Esta tabla de resumen fue basado en el [notebook 1](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/efeb337f481dd875f25ecdaf905151210980e37f/Software/Filtrado_Se%C3%B1alCompleta%20(1).ipynb), los parámetros que se están utilizando en la guía no proporcionan suficiente información para comparar filtros FIR e IIR. En su lugar, se propone crear filtros analizando el espectro de frecuencia en un siguiente notebook utilizando pyFDAx, los cuales se pueden observar en el [notebook 2](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/Software/Copia_de_Filtros.ipynb)
+
+
 ## Conclusiones
 En conclusión, el diseño de filtros es fundamental en el procesamiento de señales y especialmente en la limpieza de señales de interferencias y ruido de fondo. En este caso, el diseño de un filtro IIR y FIR a partir de un dataset de ECG, elaborado el laboratorio pasado, permitió reducir las interferencias y mejorar la calidad de la señal. Además, la elaboración de una tabla resumen para comparar las señales crudas con las señales filtradas utilizando filtros IIR y FIR, permitió visualizar y evaluar la efectividad de ambos tipos de filtros. 
 A partir de esto, se considera que el filtro IIR es más eficiente que el filtro FIR, en un mismo orden de filtro. Esto puede deberse a su naturaleza de filtro IIR que considera la retroalimentación, y realiza los “polos” y “ceros” del sistema. Mientras que el filtro FIR se encuentra limitado a solo poseer “ceros”. Por tanto, es posible decirse que si se requiere características o resultados de filtro IIR en cierto número de orden, equivale a un filtro FIR de varios cientos de etapas. Asimismo, otra de sus desventajas es que el filtro FIR es más costoso a nivel de hardware que un filtro IIR. [4] Estos consumen menos recursos y son la mejor opción para aplicarse cuando se requiere mayores velocidades de procesamiento. 
@@ -203,7 +210,9 @@ A partir de esto, se considera que el filtro IIR es más eficiente que el filtro
 #### Archivos
 - [Dataset obtenido anteriormente](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/ISB/Laboratorios/Lab6_Creaci%C3%B3n_Dataset_ECG.ipynb)
 
-- [Notebook de ploteo en python](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/Software/Copia_de_Filtros.ipynb)
+- [Notebook 1](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/efeb337f481dd875f25ecdaf905151210980e37f/Software/Filtrado_Se%C3%B1alCompleta%20(1).ipynb)
+
+- [Notebook 2](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/Software/Copia_de_Filtros.ipynb)
 
 ## Bibliografía.
 [1] J. Cabrera Peña, “Filtros Activos.” Disponible en: https://www2.ulpgc.es/hege/almacen/download/29/29861/filtros.pdf
