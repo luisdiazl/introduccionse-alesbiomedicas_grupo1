@@ -190,7 +190,10 @@ De igual manera, se obtiene un suavizado a lo largo de la señal, pasando por lo
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab%207/bloque9f.PNG" width="100%" height="100%">
 </p>
 
-Como ya se mencionó anteriormente, se diseñaron filtros, estos se pueden ver [aquí](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/Software/Copia_de_Filtros.ipynb) con el fin de evaluar el mejor. 
+En cuanto al segundo notebook, en este archivo se obtiene primero la señal ECG cruda en el que se observa los 3 casos a analizar: El estado basal, el ejercicio de aguantar la respiración y post-ejercicio. De igual forma cuando se grafica en función de la frecuencia se puede observar un pico pronunciado entre 0 y 1Hz, esta se omitirá. Para filtrar mediante IIR se usarán los filtros pasabajo de 100Hz, filtro Notch en 60Hz y un filtro pasa altas en 0.01Hz. Analizando los resultados de la señales vemos que el filtrado con un pasa altas es adecuado ya que muestra una señal suave a comparación de los otros usados. 
+Con respecto al FIR se aplican los mismos tipos de filtro, en el que se destaca una misma relación siendo el filtro pasaalto una correcta opción de filtrado.
+
+
 
 ## Tabla resumen  <br />
 
