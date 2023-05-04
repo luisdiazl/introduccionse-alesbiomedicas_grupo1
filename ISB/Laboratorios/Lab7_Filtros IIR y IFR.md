@@ -7,6 +7,7 @@
 - [Materiales y equipos](#Materiales-y-equipos)
 - [Introducción](#Introducción)
 - [Metodología](#Metodología)
+- [Tabla resumen](#Tabla-resumen)
 - [Bibliografía](#Bibliografía)
 
 ## Participantes <br />
@@ -34,3 +35,15 @@ En el procesamiento de señales, se utiliza el término “filtro” para referi
 
 Existen diferentes criterios para clasificar a los filtros, pueden ser según el tipo de señal procesada, según la función que lleven a cabo o según la aproximación matemática empleada. 
 Según el tipo de señal procesada pueden ser filtros analógicos o digitales. El primero, es un bloque básico de procesamiento de señales y está diseñado para trabajar en una señal continua, dentro de estos se puede ser pasivo (diseñados exclusivamente con elementos pasivos R,L,C) o activo (diseñado exclusivamente con condensadores, resistencias y amplificadores operacionales). 
+## Metodología
+## Tabla resumen  <br />
+
+| Campo |Señal Cruda|Filtro IIR | Filtro FIR|
+| ---   |     ---           |  ---     | ---     |
+|Basal  | <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/Cruda_Basal.png" width="100%" height="100%"> | <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/IIR_Basal.png" width="100%" height="100%">  |  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/FIR_Basal.png" width="100%" height="100%"> |
+|  Respiración | <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/Cruda_Respiracion.png" width="100%" height="100%">|<img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/IIR_Respiracion.png" width="100%" height="100%">  |  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/FIR_Respiracion.png" width="100%" height="100%"> |
+| Post-Ejercicio | <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/Cruda_postEjercicio.png" width="100%" height="100%"> |      <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/IIR_posEjercicio.png" width="100%" height="100%">   |      <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/c0eadbc4a3c77b88653d4576dd2bacc788098ff1/imges/Lab%207/FIR_postEjercicio.png" width="100%" height="100%">    |
+
+## Conclusiones
+En conclusión, el diseño de filtros es fundamental en el procesamiento de señales y especialmente en la limpieza de señales de interferencias y ruido de fondo. En este caso, el diseño de un filtro IIR a partir de un dataset de ECG, elaborado el laboratorio pasado, permitió reducir las interferencias y mejorar la calidad de la señal. Además, la elaboración de una tabla resumen para comparar las señales crudas con las señales filtradas utilizando filtros IIR y FIR, permitió visualizar y evaluar la efectividad de ambos tipos de filtros. 
+## Bibliografía
