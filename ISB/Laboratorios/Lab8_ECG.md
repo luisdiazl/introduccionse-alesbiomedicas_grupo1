@@ -6,7 +6,6 @@
 - [Öbjetivos](#Objetivos)
 - [Materiales y equipos](#Materiales-y-equipos)
 - [Metodología](#Metodología)
-- [Conclusiones](#Conclusiones)
 - [Archivos](#Archivos)
 - [Bibliografía](#Bibliografía)
 
@@ -30,8 +29,6 @@
 |    -           |    Google collab  |     1    |
 
 ## Metodología <br />
-
-## Conclusiones <br />
 
 ## Archivos <br />
 
