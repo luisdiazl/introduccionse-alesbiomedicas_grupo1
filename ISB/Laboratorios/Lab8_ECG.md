@@ -5,11 +5,9 @@
 - [Participantes](#Participantes)
 - [Öbjetivos](#Objetivos)
 - [Materiales y equipos](#Materiales-y-equipos)
-- [Introducción](#Introducción)
 - [Metodología](#Metodología)
-- [Tabla resumen](#Tabla-resumen)
-- [Archivos](#Archivos)
 - [Conclusiones](#Conclusiones)
+- [Archivos](#Archivos)
 - [Bibliografía](#Bibliografía)
 
 ## Participantes <br />
@@ -23,10 +21,18 @@
 ## Objetivos <br />
 - Diseñar un filtro pasa banda a partir del dataset de ECG obtenido en las últimas sesiones de laboratorio.
 - Diseñar un filtro pasa bajo a partir del dataset de ECG obtenido en la últimas sesiones de laboratorio.
-- Elaborar una tabla resumen que permita visualizar y comparar las señales crudas con las señales filtradas utilizando filtros pasa banda y pasa bajo
+- Obtener los complejos QRS de la señal ECG inicial.
 
 ## Materiales y equipos <br />
 | Modelo         | Descripción       | Cantidad |
 | ---            |     ---           |  ---     |
 | -              | Laptop o PC       |     1    |
 |    -           |    Google collab  |     1    |
+
+## Metodología <br />
+
+## Conclusiones <br />
+
+## Archivos <br />
+
+## Bibliografía <br />
