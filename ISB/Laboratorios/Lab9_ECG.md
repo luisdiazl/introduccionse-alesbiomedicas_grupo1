@@ -31,7 +31,7 @@
 Primero se carga el dataset de ECG obtenido en anteriores laboratorios, estos serán almacenados en un diccionario para su posterior uso. Luego se muestran las señales recolectadas crudas mediante una gráfica.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b1.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b1.PNG" width="100%" height="100%">
 </p> 
 
 Para generar las gráficas, primero separamos la data en 3 secciones que vienen a ser la fase de estado basal, la fase de aguantar la respiración y la fase de post-ejercicio.
