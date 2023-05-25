@@ -221,3 +221,7 @@ Se muestran los complejos QRS del estado post-ejercicio.
 </p> 
 
 ## Archivos <br />
+
+- [Dataset obtenido anteriormente](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/ISB/Laboratorios/Lab6_Creaci%C3%B3n_Dataset_ECG.ipynb)
+
+- [Código](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/LAB_9.ipynb)
