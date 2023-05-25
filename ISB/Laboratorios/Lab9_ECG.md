@@ -43,37 +43,37 @@ Para generar las gráficas, primero separamos la data en 3 secciones que vienen 
 Analizamos primero la señal de estado basal y recortamos en los puntos donde valen cero.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b3_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b3_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b3_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b3_b.PNG" width="100%" height="100%">
 </p> 
 
 Analizamos la señal de estado de respiración y recortamos en los puntos donde valen cero.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b4_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b4_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b4_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b4_b.PNG" width="100%" height="100%">
 </p>
 
 Analizamos la señal de estado de post-ejercicio y recortamos en los puntos donde valen cero.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b5_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b5_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b5_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b5_b.PNG" width="100%" height="100%">
 </p>
 
 Se unen las 3 señales obtenidas previamente en el orden mencionado, se puede observar como en la gráfica muestra 3 comportamientos diferentes en la señal provenientes de las 3 fases.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b6_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b6_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b6_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b6_b.PNG" width="100%" height="100%">
 </p>
 
 Se analizará la gráfica de la señal en función de su frecuencia.
