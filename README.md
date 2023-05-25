@@ -20,27 +20,45 @@ Repositorio del curso Introducción a Señales Biomédicas del grupo 1 del ciclo
 ## Presentacion de los integrantes:
 Luis Daniel Jesús Diaz Leguizamon: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el diseño y desarrollo de implantes neurológicos para la adquisición, almacenamiento y envío de información. <br />
-![Luis](imges/fotol.jpg)
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/38987ab4165a7d2fe0b25e4a746729afdd4e0d59/imges/fotol.jpg" width="100%" height="100%">
+</p> 
 
 Giancarlo Arian Guarnizo Bellido: <br />
 Estudiante de 7mo ciclo de la carrera Ingenieria Biomedica PUCP-UPCH, interesado en la especialidad de Ingeniería Clínica y Señales e Imágenes Biomédicas. Con el curso de Introducción a señales biomédicas busca tener una base sólida en el entendimiento y procesamiento de las señales fisiológicas.<br />
-![Giancarlo](imges/giancarlossss.png)
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/38987ab4165a7d2fe0b25e4a746729afdd4e0d59/imges/giancarlossss.png" width="100%" height="100%">
+</p> 
 
 Diego Fernando Segura Contreraras: <br />
 Estudiante de 7mo ciclo de Ingenieria Biomedica PUCP-UPCH, con interés en las concentraciones de Ingeniería Clínica e Ingeniería de Tejidos.<br />
-![Diego](imges/Diego.jpg)
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/38987ab4165a7d2fe0b25e4a746729afdd4e0d59/imges/Diego.jpg" width="100%" height="100%">
+</p> 
 
 Alexys Remiro Caytano Melendez: <br />
 Estudiante de 9no ciclo de la especialidad Ingenieria Biomedica PUCP-UPCH, interesado en el Procesamiento de Señales e Imágenes Médicas, así como en el área de Ingeniería Clínica. Así mismo, espera poder aprender lo máximo del curso para poder aplicar los conocimientos adquiridos en su futuro laboral.<br />
-![Alexys](imges/alexys.jpg)
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/38987ab4165a7d2fe0b25e4a746729afdd4e0d59/imges/alexys.jpg" width="100%" height="100%">
+</p> 
 
 Yereli Karol García Palomino: <br />
 Estudiante de 7mo ciclo de Ingeniería Biomédica PUCP-UPCH, en busca de poder desarrollar diferentes proyectos que involucren las especialidades de Ingeniera Clínica y Procesamiento señales e imágenes biomédicas.  <br />
-![Karol](imges/fotok.jpg)
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/38987ab4165a7d2fe0b25e4a746729afdd4e0d59/imges/fotok.jpg" width="100%" height="100%">
+</p> 
 
 Nicolle Stephany Muñoz Huamán: <br />
 Estudiante de 7mo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, inclinada a realizar proyectos sobre la carrera, y abarcar las áreas de Ingeniería Clínica y Señales e Imágenes Biomédicas. <br />
-![Nicolle](imges/nicolle.jpg)
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/38987ab4165a7d2fe0b25e4a746729afdd4e0d59/imges/nicolle.jpg" width="100%" height="100%">
+</p> 
 
 ## Objetivo del curso:
 En este curso tenemos como objetivo el realizar un proyecto de investigación en el que se adquirirá y procesará las señales biomedicas recibidas de un electroencefalograma (EEG).
@@ -55,7 +73,9 @@ UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial e
 ## Materiales a usar:
 |            Material                                                |                              Imagen referencial          |
 |--------------------------------------------------------------------|-----------------------------------------------------------| 
-| **Ultracortex EEG Headset**: Auriculares imprimibles en 3D, con código abierto, que han sido diseñados para ser compatibles con cualquier placa OpenBCI. Además, es capaz de registrar la actividad cerebral (EEG).|       ![Ultracortex](imges/Ultracortex1.png)              | 
+| **BITalino: Kit de herramientas y sistema biomédico de prototipos que permite adquirir y analizar señales fisiológicas, consta con sensores que miden EMG, EEG, ECG, entre otros.|      <p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/340de63e7bd6c35da3b44db7cf7629dcb9d559f5/imges/BiTalino.PNG" width="100%" height="100%">
+</p>              | 
 
 
 ## Docentes del curso:
