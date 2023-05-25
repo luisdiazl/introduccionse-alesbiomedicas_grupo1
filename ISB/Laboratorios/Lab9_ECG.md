@@ -79,69 +79,145 @@ Se unen las 3 señales obtenidas previamente en el orden mencionado, se puede ob
 Se analizará la gráfica de la señal en función de su frecuencia.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b7_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b7_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b7_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b7_b.PNG" width="100%" height="100%">
 </p>
 
 Se analizará a partir de la frecuencia de 1Hz para evitar el pico pronunciado que aparece entre 0 y 1Hz. 
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b8_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b8_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b8_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b8_b.PNG" width="100%" height="100%">
 </p>
 
 Se procede a usar el filtro de Notch para eliminar el pico de 60Hz y los armónicos vistos en la gráfica de frecuencia.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b9_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b9_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b9_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b9_b.PNG" width="100%" height="100%">
 </p>
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b9_c.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b9_c.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b9_d.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b9_d.PNG" width="100%" height="100%">
 </p>
 
 Se muestra la gráfica de la señal entera filtrada sin tomar en cuenta el pico gigante entre 0-1Hz.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b10_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b10_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b10_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b10_b.PNG" width="100%" height="100%">
 </p>
 
 Se usará un filtro pasa banda y pasa alto en la señal, primero se procede a crear y aplicar el filtro pasa banda.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b11_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b11_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b11_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b11_b.PNG" width="100%" height="100%">
 </p>
 
 Se muestra una gráfica con mejor visualización en el que la señal está suavizada y con una menor amplitud debido a que se suprime una parte del ruido.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b11_c.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b11_c.PNG" width="100%" height="100%">
 </p>
 
 Ahora se procede a crear el filtro pasa alto.
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b12_a.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b12_a.PNG" width="100%" height="100%">
 </p> 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/95e011456c60085f6e6d9c259e9cd4a5a1307044/imges/Lab9/b12_b.PNG" width="100%" height="100%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b12_b.PNG" width="100%" height="100%">
 </p
   
+Se muestra una gráfica con una buena visualización, con la señal suavizada y con una amplitud escalada en el que el eje central se ubica en la amplitud 0.
 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b12_c.PNG" width="100%" height="100%">
+</p
+
+Se muestra la gráfica de la señal filtrada en función de su frecuencia.
+  
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b13_a.PNG" width="100%" height="100%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b13_b.PNG" width="100%" height="100%">
+</p  
+  
+Ahora se realiza un filtrado derivativo a la señal. Se puede observar que la amplitud se redujo y la señal se ve más uniforme. 
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b14_a.PNG" width="100%" height="100%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b14_b.PNG" width="100%" height="100%">
+</p    
+  
+Se eleva al cuadrado la señal para solo tener picos positivos, de esta manera se observa también un aumento en la amplitud de los picos.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b15.PNG" width="100%" height="100%">
+</p    
+  
+Se aplica un operador del tipo Moving Window Integration en el que se obtienen los picos más notorios y se observa una menor presencia de ruido en las amplitudes más bajas.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b16.PNG" width="100%" height="100%">
+</p    
+  
+Se procede a marcar los picos locales en la gráfica de la señal.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b17.PNG" width="100%" height="100%">
+</p     
+
+Se realiza un análisis de threshold para identificar los picos pertenecientes a las ondas R de un ECG, de esta manera no se tomará en cuenta los picos provenientes del ruido.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b18_a.PNG" width="100%" height="100%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b18_b.PNG" width="100%" height="100%">
+</p   
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b18_c.PNG" width="100%" height="100%">
+</p> 
+
+Finalmente se obtienen los complejos QRS de la señal ECG completa.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b18_d.PNG" width="100%" height="100%">
+</p>   
+
+Se muestran los complejos QRS de la señal basal.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b19.PNG" width="100%" height="100%">
+</p>   
+
+Se muestran los complejos QRS del estado de aguantar la respiración.
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b20.PNG" width="100%" height="100%">
+</p> 
+
+Se muestran los complejos QRS del estado post-ejercicio. 
+
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab9/b21.PNG" width="100%" height="100%">
+</p> 
 
 ## Archivos <br />
