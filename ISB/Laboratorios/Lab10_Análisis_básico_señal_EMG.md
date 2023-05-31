@@ -1,4 +1,4 @@
-# LABORATORIO 10
+# LABORATORIO 10 -  Análisis básico de la señal EMG
 ------------------------------------------------
 
 ## Tabla de contenidos
