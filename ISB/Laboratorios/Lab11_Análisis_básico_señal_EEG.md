@@ -64,3 +64,5 @@ Las señales se visualizan en el espectro de frecuencias, donde se define un ran
 Posteriormente, se aplica el filtro para detectar tanto el ERP como el caso en que se presente un estímulo sonoro, y se extrae el índice en donde se presenta la banda Alfa. 
 
 ## Archivos <br />
+
+- [Código](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/LAB_11.ipynb)
