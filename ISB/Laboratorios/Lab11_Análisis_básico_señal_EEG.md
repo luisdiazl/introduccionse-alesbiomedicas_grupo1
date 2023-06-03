@@ -65,4 +65,4 @@ Posteriormente, se aplica el filtro para detectar tanto el ERP como el caso en q
 
 ## Archivos <br />
 
-- [Código](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/LAB_11.ipynb)
+-[Notebook](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/4f52ed7d141a5385669011c442998f6027add401/ISB/Tratamiento_de_se%C3%B1al_EEG_10.ipynb)
