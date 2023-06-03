@@ -31,7 +31,7 @@
 Las señales proporcionadas por el cerebro, señales EEG, son producidas por la liberación de neurotransmisores que ocasionan el cambio de voltaje a través de la membrana celular. Los campos eléctricos generados, particularmente por las neuronas piramidales, sirven para la medición de las señales dado que son lo suficientemente fuertes para atravesar los tejidos. <br/>
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab9/brain4.JPG" width="40%" height="40%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/brain4.JPG" width="40%" height="40%">
 </p> 
 <p align="center">
   Figura 1. Tipos de onda en EEG
@@ -41,7 +41,7 @@ Existen diferentes tipos de ondas presentes en un EEG. Por ejemplo, las ondas Ga
 La adquisición de señales EEG está determinada por el sistema internacional 10-20, donde 21 electrodos se colocan en ubicaciones específicas en la cabeza para detectar las señales eléctricas producidas. En este laboratorio, el dispositivo que hizo posible la addquisición de datos fue el Ultracortex EEG Headset, que sigue el sistema internacional previamente descrito. <br/>
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab9/brain3.JPG" width="30%" height="30%">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab5/brain3.JPG" width="30%" height="30%">
 </p> 
 <p align="center">
   Figura 2. Ubicación de electrodos para EEG en sistema internacional 10-20
