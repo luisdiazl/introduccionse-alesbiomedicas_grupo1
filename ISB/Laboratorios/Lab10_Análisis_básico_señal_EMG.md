@@ -17,9 +17,9 @@
 - Yereli Karol García Palomino (colaborador) - a20191706@pucp.edu.pe <br />
 
 ## Objetivos <br />
-- Diseñar un filtro pasa banda a partir del dataset de ECG obtenido en las últimas sesiones de laboratorio.
-- Diseñar un filtro pasa bajo a partir del dataset de ECG obtenido en la últimas sesiones de laboratorio.
-- Obtener los complejos QRS de la señal ECG inicial.
+- Diseñar un filtro pasa banda a partir del dataset de EMG obtenido en las últimas sesiones de laboratorio.
+- Diseñar un filtro pasa bajo a partir del dataset de EMG obtenido en la últimas sesiones de laboratorio.
+- Obtener los componentes de la señal EMG inicial.
 
 ## Materiales y equipos <br />
 | Modelo         | Descripción       | Cantidad |
@@ -28,5 +28,6 @@
 |    -           |    Google collab  |     1    |
 
 ## Metodología <br />
+Primero se carga el dataset de EMG obtenido en anteriores laboratorios, estos serán almacenados en un diccionario para su posterior uso. Luego se muestran las señales recolectadas crudas mediante una gráfica.
 
 ## Archivos <br />
