@@ -48,7 +48,7 @@ La adquisición de señales EEG está determinada por el sistema internacional 1
 </p> 
 
 <p align="center">
-  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/f7602f6dc8c3d30557579873198af5517e64966b/imges/Lab9/Ultracortex.jpeg" width="30%" height="30%">
+  <img src="imges/Lab9/Ultracortex.jpeg" width="30%" height="30%">
 </p> 
 <p align="center">
   Figura 3. Ultracortex EEG Headset
