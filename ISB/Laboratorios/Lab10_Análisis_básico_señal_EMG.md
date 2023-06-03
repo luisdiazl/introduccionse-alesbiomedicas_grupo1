@@ -56,7 +56,7 @@ La electromiografía consiste en el registro externo de la actividad bioeléctri
 Primero se carga el dataset de EMG obtenido en anteriores laboratorios, estos serán almacenados en un diccionario para su posterior uso. Luego se muestran las señales recolectadas crudas mediante una gráfica.
 
 ## Archivos <br />
-- []
+- [Notebook]()
 
 ## Bibliografía <br />
 - [1] PLUX Biosignals, “What is BITalino?,” PLUX Biosignals, May 06, 2022. https://www.pluxbiosignals.com/blogs/informative/what-is-bitalino#:~:text=BITalino%20is%20an%20affordable%2C%20plug,and%20applications%20using%20physiological%20sensors. (accessed Jun. 01, 2023).
