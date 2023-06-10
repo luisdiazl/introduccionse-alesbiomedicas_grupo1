@@ -22,6 +22,7 @@
 | -              | Laptop o PC      |     1    |
 
 ## Archivos
+-[Notebook](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/ISB/Laboratorios/Lab12_Balanceo_ROS.ipynb)
 
 ## Conclusiones
 En estos ejerecicios se destaca la importancia de escoger un correcto modelo, en este caso de regresión lineal, que permitan no solo a predecir de manera óptima las clases de determinados inputs, sino que los resultados obtenidos tengan una significancia estadística que permita verificar si el clasificador es eficiente y que los resultados no hayan sido hechos al azar. Además, se pudo corroborar como la aplicación de un balance ROS mejora en gran medida el desempeño del modelo permitiendo obtener predicciones más fiables. 
