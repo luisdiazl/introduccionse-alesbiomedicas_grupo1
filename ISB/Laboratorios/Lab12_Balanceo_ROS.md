@@ -29,6 +29,6 @@ En estos ejerecicios se destaca la importancia de escoger un correcto modelo, en
 Para el ejercicio elaborado, se concluye que el mejor modelo predictivo es el obtenido a partir de 3 variables: C', 'PIP' y 'P_ventilador' tras pasar por un balance ROS. Los resultados de este modelo fueron estadísticamente significativos por su p-value menor a 0.05, con una presición de 83% y con la menor cantidad de falsos positivos y negativos, así como de una variabilidad en la selección de las clases.
 
 ## Bibliografía
-[1] S. Visa, B. Ramsay, A. Ralescu, E. Knaap. "Confusion Matrix-based Feature Selection". CEUR Workshop Proceedings. 2011. Available: https://ceur-ws.org/Vol-710/paper37.pdf
-[2] Econometrics, Chapter 2. "Simple Linear Regression Analysis". Indian Institute of Technology Kharagpur. 2019. Available: https://home.iitk.ac.in/~shalab/regression/Chapter2-Regression-SimpleLinearRegressionAnalysis.pdf
-3. Analyticsvidhya. "Understanding & Interpreting Confusion Matrices for Machine Learning". 2023. Available: https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
+[1] S. Visa, B. Ramsay, A. Ralescu, E. Knaap. "Confusion Matrix-based Feature Selection". CEUR Workshop Proceedings. 2011. Available: https://ceur-ws.org/Vol-710/paper37.pdf <br />
+[2] Econometrics, Chapter 2. "Simple Linear Regression Analysis". Indian Institute of Technology Kharagpur. 2019. Available: https://home.iitk.ac.in/~shalab/regression/Chapter2-Regression-SimpleLinearRegressionAnalysis.pdf <br />
+3. Analyticsvidhya. "Understanding & Interpreting Confusion Matrices for Machine Learning". 2023. Available: https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/ <br />
