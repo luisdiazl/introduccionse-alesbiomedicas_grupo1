@@ -1,4 +1,4 @@
-# LABORATORIO 12
+# LABORATORIO 13
 ------------------------------------------------
 
 ## Tabla de contenidos
@@ -17,18 +17,16 @@
 
 ## Materiales y equipos <br />
 | Modelo         | Descripción      | Cantidad |
-| ---            |     ---          |  ---     |
-| Google Collab |      |     1    |
-| -              | Laptop o PC      |     1    |
+|Teachable Machine |     ---          |  ---     |
+| Google Collab |  ---    |     1    |
+| ---              | Laptop o PC      |     1    |
 
 ## Archivos
--[Notebook](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/ISB/Laboratorios/Lab12_Balanceo_ROS.ipynb)
+Video con los resultados:
+https://drive.google.com/file/d/1sSOJDd9BZkdz_VQvExq8YvTJDlHv7mth/view?usp=sharing
 
 ## Conclusiones
-En estos ejerecicios se destaca la importancia de escoger un correcto modelo, en este caso de regresión lineal, que permitan no solo a predecir de manera óptima las clases de determinados inputs, sino que los resultados obtenidos tengan una significancia estadística que permita verificar si el clasificador es eficiente y que los resultados no hayan sido hechos al azar. Además, se pudo corroborar como la aplicación de un balance ROS mejora en gran medida el desempeño del modelo permitiendo obtener predicciones más fiables. 
-Para el ejercicio elaborado, se concluye que el mejor modelo predictivo es el obtenido a partir de 3 variables: C', 'PIP' y 'P_ventilador' tras pasar por un balance ROS. Los resultados de este modelo fueron estadísticamente significativos por su p-value menor a 0.05, con una presición de 83% y con la menor cantidad de falsos positivos y negativos, así como de una variabilidad en la selección de las clases.
+El modelo muestra resultados relevantes que indican un correcto desempeño en la clasificación de objetos. Pese a que aún presente dificultades en la identificación de objetos con similares características y tomas en donde se obtenga menos detalles y características, estás pueden mejorarse esto colocando una mayor data de entrenamiento. Para el trabajo realizado, sería necesario el uso de más fotografías de aprendizaje con diferentes perspectivas de luz, cercanía a la cámara, posicionamiento, entre otros.
 
 ## Bibliografía
-[1] S. Visa, B. Ramsay, A. Ralescu, E. Knaap. "Confusion Matrix-based Feature Selection". CEUR Workshop Proceedings. 2011. Available: https://ceur-ws.org/Vol-710/paper37.pdf <br />
-[2] Econometrics, Chapter 2. "Simple Linear Regression Analysis". Indian Institute of Technology Kharagpur. 2019. Available: https://home.iitk.ac.in/~shalab/regression/Chapter2-Regression-SimpleLinearRegressionAnalysis.pdf <br />
-3. Analyticsvidhya. "Understanding & Interpreting Confusion Matrices for Machine Learning". 2023. Available: https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/ <br />
+[1] Teachable Machine. Available: https://teachablemachine.withgoogle.com/models/W7tLJMBc8/
