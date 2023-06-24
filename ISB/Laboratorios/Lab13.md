@@ -28,8 +28,8 @@ En el vídeo se puede apreciar que el modelo distingue cuando los objetos son de
 
 
 ## Archivos
-Samples usados:
--[Libro de anatomía (samples)](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/Lab13_files/Libro%20de%20Anatom%C3%ADa-samples.zip)
+Samples usados: <br />
+- [Libro de anatomía (samples)](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/Lab13_files/Libro%20de%20Anatom%C3%ADa-samples.zip)
 - [Libro de Biología (samples)](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/Lab13_files/Libro%20de%20Biolog%C3%ADa-samples.zip)
 - [Atlas de Anatomía Humana (samples)](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/Lab13_files/Atlas%20de%20Anatom%C3%ADa%20Humana-samples.zip)
 - [FlashCard Anatomía (samples)](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/Lab13_files/FlashCard%20Anatom%C3%ADa-samples.zip)  <br />
