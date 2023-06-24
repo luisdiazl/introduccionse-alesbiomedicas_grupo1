@@ -22,6 +22,11 @@
 | -              | Laptop o PC      |     1    |
 | Teachable Machine |      |     1    |
 
+## Metodología <br />
+Para este aprendizaje se han hecho 4 clases que consisten en 3 libros y una caja, cada uno con diferentes fotografías en diferentes posiciones para mayor aprendizaje y para que exista una mayor capacidad de predicción correcta.
+En el vídeo se puede apreciar que el modelo distingue cuando los objetos son de diferentes formas, colores y posiciones de manera adecuada, sin embargo se presentó un ligero menor porcentaje de predicción cuando son dos objetos del mismo color o cuando se muestra el borde del libro, los cuales aumentaban cuando se cambiaba de posición hasta encontrar una donde le permita predecir de manera correcta.
+
+
 ## Archivos
 Samples usados:
 -[Libro de anatomía (samples)](https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/Software/Lab13_files/Libro%20de%20Anatom%C3%ADa-samples.zip)
