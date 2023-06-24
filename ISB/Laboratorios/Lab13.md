@@ -25,32 +25,60 @@
 ## Metodología <br />
 Para este aprendizaje se han hecho 4 clases que consisten en 3 libros y una caja, cada uno con diferentes fotografías en diferentes posiciones para mayor aprendizaje y para que exista una mayor capacidad de predicción correcta.
 
-(Libros.jpeg) (Flashcard_cámara.jpeg)
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/libros.jpg" width="50%" height="50%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/Flashcard_cámara.jpg" width="50%" height="50%">
+</p> 
 
 Posterior a ello, se procede a prepara el modelo ya implementado, de forma que esté listo para realizar la clasificación con información de testeo. 
 
-(preparamod1.jpeg) (preparamod2.jpeg) (preparamod3.jpeg)
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/preparamod1.jpg" width="25%" height="25%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/preparamod2.jpg" width="25%" height="25%"> 
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/preparamod3.jpg" width="25%" height="25%">
+</p> 
 
 Una vez conseguido el "Modelo Preparado", se procede a testear mostrando los libros y/o caja, es decir, las clases, a la cámara web para que se pueda comprobar la eficacia del modelo de Machine Learning. 
 
-(sol1).
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol1.jpg" width="25%" height="25%">
+</p> 
 
 El modelo logra predecir el "Libro de anatomía" con un alto porcentaje, no un 100%. Es un ligero menor de porcentaje de predicción.
 
-(sol2)
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol2.jpg" width="25%" height="25%">
+</p> 
 
 Por otra parte, con el "Libro de Biología", se da una correcta clasificación con un porcentaje de predicción de 100%. El caso anterior, podría deberse a que son libros del mismo color. 
 
-(sol3)
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol3.jpg" width="25%" height="25%">
+</p> 
 
 Sin embargo, en el caso de "Atlas de Anatomía Humana", se aprecia un cambio en el porcentaje de predicción. Si bien en un inicio logra predecir que es la clase correcta, cuando se muestra el borde del libro, se observa un constante cambio en el porcentaje de predicción, que suele ser ligero. En el momento de la captura de la imagen se dió con 50%, pero en el video se observa como va variando. Luego, cuando se muestra la parte trasera del libro, lo hace de forma correcta. 
 
-(sol4) (sol5) (sol6)
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol4.jpg" width="25%" height="25%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol5.jpg" width="25%" height="25%">
+</p> 
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol6.jpg" width="25%" height="25%">
+</p> 
 
 Por último, se muestra el "Flashcard Anatomía", que finaliza con un alto porcentaje de predicción de un 98%, significativamente alto y que comprueba que el modelo empleado presenta alta eficiencia. 
 
-(sol7)
-
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/Lab13/sol7.jpg" width="25%" height="25%">
+</p> 
 
 ## Archivos
 Samples usados: <br />
