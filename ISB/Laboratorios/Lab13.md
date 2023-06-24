@@ -17,7 +17,7 @@
 
 ## Materiales y equipos <br />
 | Modelo         | Descripción      | Cantidad |
-| Teachable Machine            |     ---          |  ---     |
+| ---            |     ---          |  ---     |
 | Google Collab |      |     1    |
 | -              | Laptop o PC      |     1    |
 
