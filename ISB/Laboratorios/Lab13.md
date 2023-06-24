@@ -20,6 +20,7 @@
 | ---            |     ---          |  ---     |
 | Google Collab |      |     1    |
 | -              | Laptop o PC      |     1    |
+| Teachable Machine |      |     1    |
 
 ## Archivos
 Video con los resultados:
