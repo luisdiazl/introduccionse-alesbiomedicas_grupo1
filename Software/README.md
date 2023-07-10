@@ -27,3 +27,6 @@ La importación de librerías se dieron a través de los siguientes comandos:
 ```
 
 Las versiones empleadas de las librerías se encuentran en la siguiente imagen:
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/versionlibrerias.jpeg" width="100%" height="100%">
+</p> 
