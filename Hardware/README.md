@@ -9,8 +9,9 @@ Sin embargo, también hemos realizado una extracción de muestras entre los miem
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/muestra2.jpeg" width="25%" height="25%">
 </p> 
+Cabe recalcar que el posicionamiento de los electrodos de referencia de cada uno debió ser en diferentes puntos anatómicos, puesto que se requiere evitar alguna interferencia o ruido no deseado en las señales. 
 
-Asimismo, la información se pudo visualizar en la pantalla de una laptop a través del software de OpenSignals. 
+Asimismo, la información de las señales electrocardiográficas extraídas se pudo visualizar en la pantalla de una laptop a través del software de OpenSignals. 
 
 <p align="center">
   <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/pantalla.jpg" width="30%" height="30%">
