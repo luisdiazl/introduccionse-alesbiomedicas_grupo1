@@ -1,5 +1,18 @@
 # Preliminary results of the development of an algorithm based on ECG parameters as a complement for the detection of metabolic syndrome in a population 20-35 years old
 
+## Introducción 
+
+## Problemática
+El síndrome metabólico se considera una amenaza sanitaria moderna debido a su significativa expansión global [8]. Entre las principales causas del incremento de su prevalencia se encuentra el alto consumo de comidas rápidas con elevado contenido calórico y bajo contenido de fibra, así como la disminución de la actividad física debido a estilos de vida sedentarios [8]. Según estadísticas publicadas por la International Diabetes Foundation (IDF), la prevalencia mundial del MetS se estima en alrededor de 25% [8]. En Perú, un estudio hecho en el Hospital I Florencia de Mora de EsSalud, ubicado en Trujillo, La Libertad, la prevalencia del MetS es del 38.97% en sus pacientes y del 42.10% en la población adulto joven. [9].
+
+Generalmente, el diagnóstico del síndrome metabólico se basa en la identificación de características físicas y evaluación de análisis de laboratorio [10]. Un estudio en Perú analizó la prevalencia de factores en riesgo para síndrome metabólico en una población de Lima en el que los criterios de diagnóstico más comunes fueron el  sobrepeso,  la  obesidad  abdominal, colesterol alto, C-HDL bajo, hipertrigliceridemia e hipertensión arterial para una población entre 20 a 59 años [11].
+En la actualidad, existen investigaciones que evalúan el uso del ECG como una posible herramienta de criterio para la detección de MetS dado que las anomalías en las señales electrocardiográficas para la evaluación de ECVs son más comunes en este tipo de pacientes [12][13]. Un estudio de cohorte realizado en una población iraní evaluó la relación entre anomalías en la señal del ECG y el MetS [14]. Se analizaron parámetros del ECG como la frecuencia cardiaca, duración de la onda P (mS), intervalo PR, duración QRS, amplitud R (mV), eje P (°), eje QRS (°), etc. dentro de una población total de 6958 participantes, de los cuales 3001 eran hombres y 3957 mujeres [14]. 
+
+Es difícil atender y solucionar todos los factores causales del MetS; no obstante, el refuerzo de la importancia de estilos de vida activos, la promoción de los alimentos saludables sobre la comida chatarra y la educación a las poblaciones sobre el MetS potencialmente contribuirían a su control. En este contexto, es también importante tener métodos de detección certeros y eficientes que asistan al personal médico a detectar y tratar el síndrome metabólico. 
+
+Por ello, proponemos el uso de algoritmos de machine learning para evaluar señales ECG de pacientes y detectar la existencia de síndrome metabólico en la población de jóvenes adultos entre 20-35 años. Además, el propósito del proyecto es evaluar y comprobar que el modelo de clasificación con mayor desempeño resultante demuestre resultados que permitan asegurar que es un robusto complemento para la detección de síndrome metabólico. 
+
+## Propuesta de solución
 ## Dataset
 La adquisición de data relevante se extrajo de un estudio realizado por GBBA (Grupo de Bioingeniería y Biofísica Aplicada), y se ejecutó la extracción de datos de forma manual, con el objetivo del registro de nuevas bases de datos electrocardiográficos de síndrome metabólico (MetS).
 
