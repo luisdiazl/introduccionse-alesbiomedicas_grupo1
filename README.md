@@ -1,7 +1,7 @@
 # Preliminary results of the development of an algorithm based on ECG parameters as a complement for the detection of metabolic syndrome in a population 20-35 years old
 
 ## Dataset
-La adquisición de data relevante se extrajo de un estudio realizado por GBBA (Grupo de Bioingeniería y Biofísica Aplicada), y se ejecutó la extracción de datos de forma manual, con el objetivo del registro de nuevas bases de datos electrocardiográficos.
+La adquisición de data relevante se extrajo de un estudio realizado por GBBA (Grupo de Bioingeniería y Biofísica Aplicada), y se ejecutó la extracción de datos de forma manual, con el objetivo del registro de nuevas bases de datos electrocardiográficos de síndrome metabólico (MetS).
 
 Asimismo, se definió una **población de estudio**, el cual poseía un rango de edad de **20 a 35 años**, son no fumadores, sin tratamiento médico, sin deterioro físico o alguna enfermedad cardiovascular evidente. 
 
@@ -97,3 +97,11 @@ Si se observa los resultados del modelo KNN en la matriz de confusión, se puede
 
 A partir de ambos modelos se observa cómo el **algoritmo de aprendizaje supervisado arroja mejores resultados de precisión** tanto en la identificación de casos positivos como negativos, además de mostrar una óptima concordancia en sus clasificaciones que permitan indicar que los resultados no son productos del azar.
 
+## Conclusiones
+1. Resultados preliminares son prometedores, sugiriendo que podría ser un complemento para la detección del Síndrome Metabólico.
+2. Ciertas anormalidades evidenciadas en el ECG se encuentran relacionadas con la predicción de la enfermedad coronaria, independientemente de los factores de riesgo.
+3. Es necesario una mayor investigación para la validación del modelo o algoritmo, en los que se debe considerar:
+   * Ampliar base de datos de ECG de forma que se incluya una mayor cantidad de pacientes con MetS, considerando diferentes edades, etnias y niveles de salud.
+   * Posibilidad de incorporación de otras características de ECG para mejorar la predicción del modelo.
+   * Investigación de integración de este tipo de algoritmos en los sistemas de salud existentes para una detección temprana de MetS, y posterior tratamiento.
+   * Ejecutar estudios longitudinales con el fin de evaluar su eficacia en la predicción de enfermedades cardiovasculares a largo plazo en pacientes con MetS. 
