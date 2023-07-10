@@ -1,6 +1,10 @@
 # Preliminary results of the development of an algorithm based on ECG parameters as a complement for the detection of metabolic syndrome in a population 20-35 years old
 
 ## Introducción 
+Las enfermedades cardiovasculares (ECV) son un conjunto de trastornos que afectan al corazón y a los vasos sanguíneos, representando una de las principales causas de morbilidad y mortalidad a nivel global. Según la OMS, en 2019, 2.0 millones de personas murieron a causa de las enfermedades cardiovasculares [1], y en Perú la tasa fue de 73.5 muertes por cada 100.000 habitantes [2]. Estas enfermedades incluyen condiciones como la enfermedad coronaria, la hipertensión arterial, los accidentes cerebrovasculares y la insuficiencia cardíaca, los cuales representan una preocupación de salud pública de gran magnitud. 
+Paralelamente, el síndrome metabólico (MetS) se ha reconocido como un factor de riesgo significativo para el desarrollo de enfermedades cardiovasculares y diabetes tipo 2. Las definiciones más ampliamente utilizadas han sido las formuladas por el European Group for the Study of Insulin Resistance (EGIR) y por el Adult Treatment Panel III (ATP-III) del National cholesterol Education Program (NCEP) [3]. Esta condición se caracteriza por la presencia de múltiples anomalías metabólicas, como la obesidad abdominal, la resistencia a la insulina, hipertensión arterial y los niveles de anomalías de lípidos en la sangre [4]. 
+Por otro lado, el electrocardiograma (ECG) es una prueba no invasiva que registra la actividad eléctrica del corazón. Se utiliza ampliamente para evaluar la salud cardiovascular, diagnosticar trastornos del ritmo cardíaco y detectar posibles problemas en el corazón [5]. El procedimiento de ECG se realiza mediante la colocación de electrodos en el cuerpo y registra ondas P, complejo QRS y ondas T, que representan la repolarización auricular, despolarización ventricular y la repolarización ventricular, respectivamente [6]. Aunque sus características no proporcionan información directa sobre el MetS en sí mismo, el ECG puede proporcionar indicios o hallazgos que están relacionados con esta condición [7]. 
+En vista de la complejidad y el impacto del síndrome metabólico en la salud cardiovascular, resulta necesario investigar nuevas herramientas y enfoques para evaluar y detectar el riesgo asociado a esta condición. En este trabajo, se plantea el uso de machine learning como un complemento que permite identificar el riesgo de síndrome metabólico. Al utilizar la información presente en el ECG, se busca mejorar la detección temprana y la estratificación del riesgo relacionado con MetS, lo cual podría tener un impacto significativo en la prevención y el manejo de enfermedades cardiovasculares y la diabetes tipo 2.
 
 ## Problemática
 El síndrome metabólico se considera una amenaza sanitaria moderna debido a su significativa expansión global [8]. Entre las principales causas del incremento de su prevalencia se encuentra el alto consumo de comidas rápidas con elevado contenido calórico y bajo contenido de fibra, así como la disminución de la actividad física debido a estilos de vida sedentarios [8]. Según estadísticas publicadas por la International Diabetes Foundation (IDF), la prevalencia mundial del MetS se estima en alrededor de 25% [8]. En Perú, un estudio hecho en el Hospital I Florencia de Mora de EsSalud, ubicado en Trujillo, La Libertad, la prevalencia del MetS es del 38.97% en sus pacientes y del 42.10% en la población adulto joven. [9].
@@ -117,4 +121,33 @@ A partir de ambos modelos se observa cómo el **algoritmo de aprendizaje supervi
    * Ampliar base de datos de ECG de forma que se incluya una mayor cantidad de pacientes con MetS, considerando diferentes edades, etnias y niveles de salud.
    * Posibilidad de incorporación de otras características de ECG para mejorar la predicción del modelo.
    * Investigación de integración de este tipo de algoritmos en los sistemas de salud existentes para una detección temprana de MetS, y posterior tratamiento.
-   * Ejecutar estudios longitudinales con el fin de evaluar su eficacia en la predicción de enfermedades cardiovasculares a largo plazo en pacientes con MetS. 
+   * Ejecutar estudios longitudinales con el fin de evaluar su eficacia en la predicción de enfermedades cardiovasculares a largo plazo en pacientes con MetS.
+  
+## Bibliografía
+[1] OPS. La carga de las enfermedades cardiovasculares en la Región de las Américas, 2000-2019. Portal de Datos de NMH. Organización Panamericana de la Salud; 2021. Available: https://www.paho.org/es/enlace/carga-enfermedades-cardiovasculares
+
+[2] Global Health Estimates Technical Paper WHO/DDI/DNA/GHE/2020.2. “WHO methods and data sources for country-level causes of death 2000-2019”. Available: https://cdn.who.int/media/docs/default-source/gho-documents/global-health-estimates/ghe2019_cod_methods.pdf?sfvrsn=37bcfacc_5
+
+[3] P. Zimmet, M. Alberti, and Manuel Pardo Ríos, “Una nueva definición mundial del síndrome metabólico propuesta por la Federación Internacional de Diabetes: fundamento y resultados,” vol. 58, no. 12, pp. 1371–1376, Dec. 2005, doi: https://doi.org/10.1016/s0300-8932(05)74065-3.
+
+[4] MedlinePlus.gov. "Síndrome metabólico". Available: https://medlineplus.gov/spanish/metabolicsyndrome.html
+
+[5] Sattar Y, Chhabra L. “Electrocardiogram”. StatPearls. Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK549803/
+
+[6] Sujadevi VG and Soman K.P, “Towards identifying most important leads for ECG classification. A data driven approach employing deep learning,” Procedia Computer Science. 2020. 171: 602-608. doi: https://doi.org/10.1016/j.procs.2020.04.065
+
+[7] Abiodun A, Oladimeji A, Bamidele T, Adewole A, Mayowa O. "Prevalence of ECG abnormalities among adults with metabolic syndrome in a Nigerian Teaching Hospital". Afr Health Sci. 2019 Dec;19(4):2829-2838. doi: 10.4314/ahs.v19i4.4
+
+[8] Saklayen MG. "The Global Epidemic of the Metabolic Syndrome". Curr Hypertens Rep. 2018 Feb 26;20(2):12. doi: 10.1007/s11906-018-0812-z.
+
+[9] Y. O. T. López, G. M. C. Zambrano, E. del S. Goicochea Ríos, J. E. V. Villacorta, and O. Y. G. Aybar, “Perfil Clínico-Epidemiológico del Síndrome Metabólico en Adultos Atendidos en el hospital i Florencia de Mora Essalud,” Horizonte Médico (Lima). doi: https://doi.org/10.24265/horizmed.2020.v20n4.06
+
+[10] Hopkinsmedicine.org “Metabolic syndrome,” https://www.hopkinsmedicine.org/health/conditions-and-diseases/metabolic-syndrome
+
+[11] Adams KJ, Chirinos JL. "Prevalencia de factores de riesgo para síndrome metabólico y sus componentes en usuarios de comedores populares en un distrito de Lima, Perú". Rev. Peru Med. Exp. Salud Publica. 2018;35(1):39-45. 10.17843/rpmesp.2018.351.3598
+
+[12] Ebong IA, Bertoni AG, Soliman EZ, Guo M, Sibley CT, Chen YD, Rotter JI, Chen YC, Goff DC Jr. “Electrocardiographic abnormalities associated with the metabolic syndrome and its components: the multi-ethnic study of atherosclerosis”. Metab Syndr Relat Disord. 2012 Apr;10(2):92-7. doi: 10.1089/met.2011.0090.
+
+[13] Ebong IA, Bertoni AG, Soliman EZ, Guo M, Sibley CT, Chen YD, Rotter JI, Chen YC, Goff DC Jr. Electrocardiographic abnormalities associated with the metabolic syndrome and its components: the multi-ethnic study of atherosclerosis. Metab Syndr Relat Disord. 2012 Apr;10(2):92-7. doi: 10.1089/met.2011.0090
+
+[14] Yazdanpanah MH, Sayyadipoor S, Hojati SR, Nikmanesh A, Farjam M, Homayounfar R. "The Association of Metabolic Syndrome and Its Components with Electrocardiogram Parameters and Abnormalities Among an Iranian Rural Population: The Fasa PERSIAN Cohort Study". Diabetes Metab Syndr Obes. 2020 Aug 24;13:2975-2987. doi: 10.2147/DMSO.S263093.
