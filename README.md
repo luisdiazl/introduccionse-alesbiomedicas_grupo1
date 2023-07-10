@@ -60,15 +60,21 @@ Se aplicó la técnica de PCA con la finalidad de reducir dimensionalidad de dat
 * Mean Shift aplicado en PCA de 3 componentes.
 
 Se observa la gráfica de distribución de datos obtenidos con los 4 modelos resultantes de aprendizaje no supervisado.
-IMAGEN DISTRIBUCIÓN 1
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/distribu.jpeg" width="50%" height="100%">
+</p>
 
 Cada algoritmo se somete a un análisis mediante 5 métricas las cuales son: precisión, sensibilidad, especificidad, constante _'Kappa'_, y constante _'Silhouette'_.
-IMAGEN TABLITA 1
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/tabla1.jpeg" width="25%" height="25%">
+</p> 
 
 Se observa que todos los valores de las métricas son bajos, por lo que se indicaría que un modelo de aprendizaje no supervisado no sería el más adecuado para el caso en cuestión. De igual forma, es posible deducir visualmente que en las gráficas de distribución no se observan agrupaciones de clasificación de datos de manera notoria, quedando en duda su eficiencia cuando se requiera predecir una nueva entrada.  
 
 En el caso de análisis de la gráfica de confusión, se reitera que el modelo realizado no es óptimo para los datos obtenidos puesto que las predicciones que se obtiene son bastante erróneas y representan casi el 50% del total, lo cual se evidencia con las métricas anteriormente colocadas.
-IMAGEN GRAFCONFUSIO1
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/matrizconfu1" width="25%" height="25%">
+</p> 
 
 ### Aprendizaje Supervisado
 Se aplicó la técnica de PCA con la finalidad de reducir dimensionalidad de datos. (PCA = 2, 3). Por lo tanto, se tendrían 4 algoritmos de predicción:
@@ -77,16 +83,17 @@ Se aplicó la técnica de PCA con la finalidad de reducir dimensionalidad de dat
 * Mean Shift aplicado en PCA de 2 componentes.
 * Mean Shift aplicado en PCA de 3 componentes.
 
-Se observa la gráfica de distribución de datos obtenidos con los 4 modelos resultantes de aprendizaje no supervisado.
-IMAGEN DISTRIBUCIÓN 2
-
 Cada algoritmo se somete a un análisis donde las métricas resultan ser la precisión, sensibilidad, especificidad, constante _'Kappa'_ y puntuación F1.
-IMAGEN TABLITA 2
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/tabla2.jpeg" width="25%" height="25%">
+</p> 
 
 Se aprecia que el mejor modelo para este entrenamiento es el K-Nearest Neighbor (KNN), ya que su valor es el mayor en la mayoría de los valores de métricas, siendo la especificidad la única excepción. Sin embargo, este último valor sigue siendo bastante alto.
 
 Si se observa los resultados del modelo KNN en la matriz de confusión, se puede observar que el modelo predice 19 valores de forma errónea de los más de 100 datos analizados, en los que 12 son predichos como negativos cuando era positivos (falsos negativos) y 7 valores fueron predichos como positivos siendo estos negativos (falsos positivos).
-IMAGEN GRAFCONFUSIO2
+<p align="center">
+  <img src="https://github.com/luisdiazl/introduccionse-alesbiomedicas_grupo1/blob/main/imges/matrizconfu2" width="25%" height="25%">
+</p> 
 
 A partir de ambos modelos se observa cómo el algoritmo de aprendizaje supervisado arroja mejores resultados de precisión tanto en la identificación de casos positivos como negativos, además de mostrar una óptima concordancia en sus clasificaciones que permitan indicar que los resultados no son productos del azar.
 
