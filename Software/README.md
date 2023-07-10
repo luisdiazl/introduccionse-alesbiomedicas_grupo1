@@ -1,1 +1,2 @@
-Poner lo del proyecto
+Versión de librerias, etc
+consultar
