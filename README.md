@@ -95,10 +95,10 @@ En el caso de análisis de la gráfica de confusión, se reitera que el modelo r
 
 ### Aprendizaje Supervisado
 Se aplicó la técnica de PCA con la finalidad de reducir dimensionalidad de datos. (PCA = 2, 3). Por lo tanto, se tendrían 4 algoritmos de predicción:
-* K-means aplicado en PCA de 2 componentes.
-* K-means aplicado en PCA de 3 componentes.
-* Mean Shift aplicado en PCA de 2 componentes.
-* Mean Shift aplicado en PCA de 3 componentes.
+* K-nearest Neighbors (KNN)
+* Regresión Logística (RL)
+* Random Forest (RF)
+* Super Vector Machine (SVM)
 
 Cada algoritmo se somete a un análisis donde las métricas resultan ser la precisión, sensibilidad, especificidad, constante _'Kappa'_ y puntuación F1.
 <p align="center">
